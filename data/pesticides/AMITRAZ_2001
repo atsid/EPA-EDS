@@ -1,0 +1,554 @@
+[
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "5035",
+    "weight": "14.5"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "5037",
+    "weight": "0.6"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "5077",
+    "weight": "20.1"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "5085",
+    "weight": "8.3"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "5095",
+    "weight": "5.1"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "5107",
+    "weight": "35"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "5117",
+    "weight": "0.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "5123",
+    "weight": "6.6"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "5147",
+    "weight": "1.5"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "6029",
+    "weight": "20.8"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "6065",
+    "weight": "98.3"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28003",
+    "weight": "0.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28007",
+    "weight": "2.2"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28009",
+    "weight": "1.9"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28011",
+    "weight": "39.2"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28013",
+    "weight": "8"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28015",
+    "weight": "6.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28017",
+    "weight": "1.6"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28019",
+    "weight": "0.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28025",
+    "weight": "1.1"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28027",
+    "weight": "53.8"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28033",
+    "weight": "3.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28043",
+    "weight": "3.6"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28051",
+    "weight": "23.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28053",
+    "weight": "31.1"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28055",
+    "weight": "11.3"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28057",
+    "weight": "0.8"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28071",
+    "weight": "1.8"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28079",
+    "weight": "0.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28081",
+    "weight": "2.7"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28083",
+    "weight": "38.3"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28087",
+    "weight": "2"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28089",
+    "weight": "5.8"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28093",
+    "weight": "1"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28095",
+    "weight": "5.8"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28097",
+    "weight": "2.6"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28103",
+    "weight": "3.6"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28105",
+    "weight": "0.2"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28107",
+    "weight": "18.2"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28115",
+    "weight": "1.6"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28117",
+    "weight": "1.3"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28119",
+    "weight": "20.8"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28121",
+    "weight": "1.9"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28123",
+    "weight": "0.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28125",
+    "weight": "26.1"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28133",
+    "weight": "36.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28135",
+    "weight": "27.3"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28137",
+    "weight": "3.8"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28139",
+    "weight": "0.3"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28141",
+    "weight": "0.6"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28143",
+    "weight": "27.3"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28145",
+    "weight": "0.6"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28151",
+    "weight": "42.6"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28155",
+    "weight": "4.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28159",
+    "weight": "0.2"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28161",
+    "weight": "4.2"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "28163",
+    "weight": "40.2"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41003",
+    "weight": "1.5"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41005",
+    "weight": "8.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41009",
+    "weight": "0.8"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41011",
+    "weight": "0.8"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41015",
+    "weight": "0.8"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41019",
+    "weight": "14.9"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41029",
+    "weight": "887.9"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41033",
+    "weight": "1.8"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41039",
+    "weight": "5.1"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41041",
+    "weight": "0.3"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41043",
+    "weight": "2.5"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41047",
+    "weight": "17.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41051",
+    "weight": "1.5"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41053",
+    "weight": "4.7"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41067",
+    "weight": "9"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "41071",
+    "weight": "3.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47017",
+    "weight": "5.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47023",
+    "weight": "0.5"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47033",
+    "weight": "28.4"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47045",
+    "weight": "12.7"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47047",
+    "weight": "16.8"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47053",
+    "weight": "12.2"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47069",
+    "weight": "6.3"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47071",
+    "weight": "0.7"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47075",
+    "weight": "39.6"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47077",
+    "weight": "1.1"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47079",
+    "weight": "0.2"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47095",
+    "weight": "4.5"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47097",
+    "weight": "18.5"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47109",
+    "weight": "1"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47113",
+    "weight": "14"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47131",
+    "weight": "1.3"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47157",
+    "weight": "8.3"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47167",
+    "weight": "23.1"
+  },
+  {
+    "name": "AMITRAZ",
+    "year": "2001",
+    "fips": "47183",
+    "weight": "0.2"
+  }
+]

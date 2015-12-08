@@ -1,0 +1,674 @@
+[
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6019",
+    "weight": "191"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6021",
+    "weight": "0.7"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6025",
+    "weight": "5.4"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6029",
+    "weight": "2420.9"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6039",
+    "weight": "157.6"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6047",
+    "weight": "230.4"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6053",
+    "weight": "0.7"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6059",
+    "weight": "8.8"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6065",
+    "weight": "5.4"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6073",
+    "weight": "1.7"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6077",
+    "weight": "95.2"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6079",
+    "weight": "0.6"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6083",
+    "weight": "135.9"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6085",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6087",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6099",
+    "weight": "1047.9"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6101",
+    "weight": "6.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6103",
+    "weight": "0.7"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6107",
+    "weight": "888.3"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6111",
+    "weight": "138.6"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "6113",
+    "weight": "22.6"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "24013",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "24043",
+    "weight": "0.7"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36003",
+    "weight": "0.8"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36007",
+    "weight": "1.2"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36009",
+    "weight": "0.7"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36011",
+    "weight": "3.4"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36013",
+    "weight": "1.6"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36015",
+    "weight": "2.3"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36017",
+    "weight": "1.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36021",
+    "weight": "79.6"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36023",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36025",
+    "weight": "1.5"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36027",
+    "weight": "17.8"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36029",
+    "weight": "1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36037",
+    "weight": "2.2"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36039",
+    "weight": "1.6"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36043",
+    "weight": "0.6"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36051",
+    "weight": "1.7"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36053",
+    "weight": "1.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36055",
+    "weight": "26.3"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36063",
+    "weight": "70.4"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36065",
+    "weight": "7.7"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36067",
+    "weight": "13.9"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36069",
+    "weight": "13.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36071",
+    "weight": "28.2"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36073",
+    "weight": "108.8"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36075",
+    "weight": "8.6"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36077",
+    "weight": "1.3"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36079",
+    "weight": "5.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36087",
+    "weight": "4.7"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36097",
+    "weight": "0.6"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36099",
+    "weight": "2.2"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36101",
+    "weight": "2.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36105",
+    "weight": "1.9"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36107",
+    "weight": "0.2"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36109",
+    "weight": "4"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36111",
+    "weight": "211"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36117",
+    "weight": "430.5"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36119",
+    "weight": "6.6"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36121",
+    "weight": "1.7"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "36123",
+    "weight": "4.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42001",
+    "weight": "6.9"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42009",
+    "weight": "0.5"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42011",
+    "weight": "0.3"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42013",
+    "weight": "0.3"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42015",
+    "weight": "4"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42017",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42025",
+    "weight": "0.5"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42027",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42029",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42035",
+    "weight": "2.2"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42037",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42041",
+    "weight": "0.3"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42043",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42047",
+    "weight": "0.9"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42055",
+    "weight": "1.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42067",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42069",
+    "weight": "4.9"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42071",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42077",
+    "weight": "10.6"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42079",
+    "weight": "7.7"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42081",
+    "weight": "12.5"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42083",
+    "weight": "0.6"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42087",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42089",
+    "weight": "2.5"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42091",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42095",
+    "weight": "3.8"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42097",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42103",
+    "weight": "0.7"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42105",
+    "weight": "0.5"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42107",
+    "weight": "9.7"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42109",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42113",
+    "weight": "0.4"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42115",
+    "weight": "4.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42117",
+    "weight": "2.6"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42125",
+    "weight": "0.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42127",
+    "weight": "4.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42131",
+    "weight": "4.5"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "42133",
+    "weight": "0.3"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "53001",
+    "weight": "4.9"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "53005",
+    "weight": "13.2"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "53007",
+    "weight": "12"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "53017",
+    "weight": "13"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "53021",
+    "weight": "10.8"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "53025",
+    "weight": "47.9"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "53037",
+    "weight": "0.7"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "53039",
+    "weight": "1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "53047",
+    "weight": "19.9"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "53063",
+    "weight": "0.3"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "53071",
+    "weight": "10.1"
+  },
+  {
+    "name": "ACEQUINOCYL",
+    "year": "2006",
+    "fips": "53077",
+    "weight": "65.8"
+  }
+]

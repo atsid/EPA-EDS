@@ -1,0 +1,5558 @@
+[
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1003",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1005",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1007",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1009",
+    "weight": "1.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1011",
+    "weight": "3.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1013",
+    "weight": "1.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1015",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1017",
+    "weight": "2.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1019",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1021",
+    "weight": "459.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1023",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1025",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1027",
+    "weight": "2.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1031",
+    "weight": "7.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1037",
+    "weight": "7.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1039",
+    "weight": "11.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1041",
+    "weight": "18.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1043",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1045",
+    "weight": "5.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1049",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1051",
+    "weight": "1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1053",
+    "weight": "2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1055",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1057",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1059",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1061",
+    "weight": "22.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1069",
+    "weight": "14.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1071",
+    "weight": "2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1073",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1075",
+    "weight": "2.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1077",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1081",
+    "weight": "3.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1087",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1089",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1091",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1095",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1097",
+    "weight": "17.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1101",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1103",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1105",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1107",
+    "weight": "2.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1109",
+    "weight": "7.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1111",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1115",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1117",
+    "weight": "8.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1119",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1121",
+    "weight": "6.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1123",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1125",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1127",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "1129",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5001",
+    "weight": "43"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5021",
+    "weight": "30.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5029",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5031",
+    "weight": "30.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5035",
+    "weight": "14"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5037",
+    "weight": "37.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5045",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5055",
+    "weight": "28.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5059",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5063",
+    "weight": "3.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5067",
+    "weight": "34.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5075",
+    "weight": "39.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5077",
+    "weight": "8.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5085",
+    "weight": "29.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5093",
+    "weight": "15.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5095",
+    "weight": "18.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5105",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5107",
+    "weight": "10.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5111",
+    "weight": "46.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5117",
+    "weight": "25.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5119",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5121",
+    "weight": "12.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5123",
+    "weight": "15.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5145",
+    "weight": "5.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "5147",
+    "weight": "22.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "6047",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "6053",
+    "weight": "21.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "6055",
+    "weight": "4.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "6059",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "6069",
+    "weight": "36.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "6079",
+    "weight": "2.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "6081",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "6083",
+    "weight": "16.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "6085",
+    "weight": "23.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "6097",
+    "weight": "117.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "6103",
+    "weight": "17"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "6111",
+    "weight": "23.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "9001",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "9003",
+    "weight": "9.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "9005",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "9007",
+    "weight": "1.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "9009",
+    "weight": "5.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "9011",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "9013",
+    "weight": "2.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "9015",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12001",
+    "weight": "156.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12003",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12005",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12007",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12009",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12015",
+    "weight": "6.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12017",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12019",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12021",
+    "weight": "5.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12023",
+    "weight": "2.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12025",
+    "weight": "231.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12027",
+    "weight": "5.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12029",
+    "weight": "9.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12033",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12039",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12041",
+    "weight": "8.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12043",
+    "weight": "2.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12049",
+    "weight": "4.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12051",
+    "weight": "42.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12053",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12055",
+    "weight": "5.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12057",
+    "weight": "28.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12059",
+    "weight": "4.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12063",
+    "weight": "27.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12065",
+    "weight": "5.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12067",
+    "weight": "14.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12069",
+    "weight": "1.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12071",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12073",
+    "weight": "3.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12075",
+    "weight": "14.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12079",
+    "weight": "1.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12081",
+    "weight": "15.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12083",
+    "weight": "8.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12085",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12091",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12093",
+    "weight": "3.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12099",
+    "weight": "121.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12101",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12105",
+    "weight": "2.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12107",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12113",
+    "weight": "4.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12115",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12117",
+    "weight": "8.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12119",
+    "weight": "2.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12121",
+    "weight": "43.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12123",
+    "weight": "3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12125",
+    "weight": "34"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12127",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12129",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12131",
+    "weight": "3.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "12133",
+    "weight": "2.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13001",
+    "weight": "6.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13003",
+    "weight": "2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13005",
+    "weight": "17"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13009",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13015",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13017",
+    "weight": "4.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13019",
+    "weight": "39.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13021",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13025",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13027",
+    "weight": "31.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13039",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13045",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13055",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13069",
+    "weight": "3.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13071",
+    "weight": "70.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13075",
+    "weight": "42.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13077",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13079",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13081",
+    "weight": "90.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13083",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13087",
+    "weight": "13.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13091",
+    "weight": "23.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13093",
+    "weight": "47.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13097",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13101",
+    "weight": "6.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13109",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13113",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13115",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13129",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13131",
+    "weight": "6.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13143",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13145",
+    "weight": "2.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13149",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13151",
+    "weight": "26"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13153",
+    "weight": "2.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13155",
+    "weight": "5.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13159",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13167",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13171",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13175",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13177",
+    "weight": "1.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13185",
+    "weight": "1.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13193",
+    "weight": "178.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13197",
+    "weight": "17.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13205",
+    "weight": "15.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13209",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13213",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13223",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13225",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13229",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13231",
+    "weight": "36.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13233",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13235",
+    "weight": "12.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13249",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13253",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13255",
+    "weight": "21.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13261",
+    "weight": "5.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13263",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13267",
+    "weight": "24.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13269",
+    "weight": "12"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13271",
+    "weight": "31.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13275",
+    "weight": "5.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13277",
+    "weight": "128"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13279",
+    "weight": "3.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13283",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13285",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13287",
+    "weight": "28.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13289",
+    "weight": "2.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13293",
+    "weight": "3.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13299",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13305",
+    "weight": "6.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13307",
+    "weight": "15.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13309",
+    "weight": "10.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13313",
+    "weight": "1.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13315",
+    "weight": "111"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13319",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "13321",
+    "weight": "55.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17005",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17013",
+    "weight": "26.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17019",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17027",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17029",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17039",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17041",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17045",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17049",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17053",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17055",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17077",
+    "weight": "12.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17079",
+    "weight": "5.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17081",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17083",
+    "weight": "3.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17087",
+    "weight": "2.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17113",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17115",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17117",
+    "weight": "2.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17119",
+    "weight": "1.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17121",
+    "weight": "8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17133",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17143",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17147",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17149",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17157",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17159",
+    "weight": "5.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17163",
+    "weight": "13.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17173",
+    "weight": "2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17179",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17181",
+    "weight": "24.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17191",
+    "weight": "2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17199",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "17203",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "18027",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "18083",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "18129",
+    "weight": "1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "18157",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21001",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21003",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21005",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21009",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21015",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21017",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21021",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21023",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21027",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21029",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21031",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21033",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21037",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21041",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21043",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21045",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21047",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21049",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21053",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21057",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21059",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21065",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21067",
+    "weight": "1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21069",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21071",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21073",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21077",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21079",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21081",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21085",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21087",
+    "weight": "2.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21089",
+    "weight": "1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21093",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21095",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21097",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21099",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21101",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21103",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21109",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21111",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21113",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21115",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21117",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21121",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21123",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21125",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21127",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21129",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21137",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21149",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21151",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21155",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21161",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21163",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21165",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21167",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21169",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21171",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21173",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21175",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21179",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21181",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21185",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21187",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21189",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21191",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21199",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21203",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21205",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21207",
+    "weight": "2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21209",
+    "weight": "1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21211",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21215",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21217",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21219",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21223",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21227",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21229",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21231",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21235",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21237",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "21239",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "22001",
+    "weight": "98.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "22003",
+    "weight": "14.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "22011",
+    "weight": "2.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "22019",
+    "weight": "9.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "22023",
+    "weight": "17.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "22053",
+    "weight": "87.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "22113",
+    "weight": "48.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23001",
+    "weight": "11.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23003",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23005",
+    "weight": "3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23007",
+    "weight": "3.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23009",
+    "weight": "1.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23011",
+    "weight": "3.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23013",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23015",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23017",
+    "weight": "14.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23019",
+    "weight": "4.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23021",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23023",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23025",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23027",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23029",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "23031",
+    "weight": "5.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "24001",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "24005",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "24013",
+    "weight": "3.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "24021",
+    "weight": "2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "24023",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "24025",
+    "weight": "1.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "24027",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "24031",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "24043",
+    "weight": "25.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "25001",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "25003",
+    "weight": "2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "25005",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "25009",
+    "weight": "3.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "25011",
+    "weight": "5.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "25013",
+    "weight": "2.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "25015",
+    "weight": "4.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "25017",
+    "weight": "5.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "25021",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "25023",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "25027",
+    "weight": "18.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26001",
+    "weight": "3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26007",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26011",
+    "weight": "13.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26015",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26017",
+    "weight": "51.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26023",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26025",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26031",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26033",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26037",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26041",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26045",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26049",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26051",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26057",
+    "weight": "27.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26059",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26061",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26063",
+    "weight": "196.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26065",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26067",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26069",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26071",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26073",
+    "weight": "8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26075",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26087",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26091",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26093",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26099",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26107",
+    "weight": "2.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26109",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26111",
+    "weight": "10.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26115",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26117",
+    "weight": "23.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26119",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26125",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26129",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26137",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26141",
+    "weight": "1.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26145",
+    "weight": "22.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26147",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26149",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26151",
+    "weight": "41.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26153",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26155",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26157",
+    "weight": "83.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "26161",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "29017",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "29023",
+    "weight": "27.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "29069",
+    "weight": "6.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "29133",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "29143",
+    "weight": "11.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "29155",
+    "weight": "10.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "29181",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "29201",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "29207",
+    "weight": "22.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "30003",
+    "weight": "55.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "30009",
+    "weight": "31.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "30017",
+    "weight": "6.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "30079",
+    "weight": "10.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "30087",
+    "weight": "12.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "30095",
+    "weight": "2.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "30103",
+    "weight": "21.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "30111",
+    "weight": "55.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "33001",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "33003",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "33005",
+    "weight": "1.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "33007",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "33009",
+    "weight": "3.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "33011",
+    "weight": "9.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "33013",
+    "weight": "5.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "33015",
+    "weight": "13.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "33017",
+    "weight": "1.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "33019",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34001",
+    "weight": "1.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34003",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34005",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34007",
+    "weight": "1.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34009",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34011",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34015",
+    "weight": "8.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34019",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34021",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34023",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34025",
+    "weight": "3.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34027",
+    "weight": "1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34029",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34031",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34035",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34037",
+    "weight": "2.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "34041",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "35009",
+    "weight": "86.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "35041",
+    "weight": "2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "35057",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36001",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36003",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36007",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36009",
+    "weight": "1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36011",
+    "weight": "3.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36013",
+    "weight": "2.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36015",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36017",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36019",
+    "weight": "56.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36021",
+    "weight": "26.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36023",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36025",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36027",
+    "weight": "6.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36029",
+    "weight": "1.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36031",
+    "weight": "5.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36033",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36035",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36037",
+    "weight": "3.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36039",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36043",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36045",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36049",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36051",
+    "weight": "2.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36053",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36055",
+    "weight": "39.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36057",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36063",
+    "weight": "106.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36065",
+    "weight": "7.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36067",
+    "weight": "14"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36069",
+    "weight": "19.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36071",
+    "weight": "10.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36073",
+    "weight": "164.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36075",
+    "weight": "8.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36077",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36079",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36083",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36087",
+    "weight": "1.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36089",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36091",
+    "weight": "4.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36093",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36095",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36097",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36099",
+    "weight": "3.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36101",
+    "weight": "3.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36103",
+    "weight": "2.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36105",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36107",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36109",
+    "weight": "4.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36111",
+    "weight": "70.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36115",
+    "weight": "2.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36117",
+    "weight": "652.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36119",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36121",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "36123",
+    "weight": "6.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37005",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37009",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37021",
+    "weight": "2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37023",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37039",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37043",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37075",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37087",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37089",
+    "weight": "190.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37099",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37111",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37113",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37115",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37121",
+    "weight": "2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37149",
+    "weight": "9.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37161",
+    "weight": "6.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37171",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37173",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37175",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37189",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37193",
+    "weight": "2.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37197",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "37199",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39001",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39009",
+    "weight": "1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39013",
+    "weight": "4.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39015",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39019",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39031",
+    "weight": "2.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39041",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39045",
+    "weight": "16.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39049",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39053",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39059",
+    "weight": "3.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39067",
+    "weight": "2.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39071",
+    "weight": "1.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39073",
+    "weight": "3.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39075",
+    "weight": "6.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39079",
+    "weight": "3.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39081",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39083",
+    "weight": "8.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39087",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39089",
+    "weight": "20.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39097",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39101",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39105",
+    "weight": "4.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39111",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39115",
+    "weight": "4.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39117",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39119",
+    "weight": "14.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39121",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39127",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39129",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39131",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39141",
+    "weight": "2.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39145",
+    "weight": "6.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39157",
+    "weight": "3.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39159",
+    "weight": "2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "39167",
+    "weight": "8.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "40039",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "40139",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42001",
+    "weight": "227.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42003",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42005",
+    "weight": "5.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42007",
+    "weight": "4.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42009",
+    "weight": "16.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42011",
+    "weight": "6.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42013",
+    "weight": "6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42015",
+    "weight": "5.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42017",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42019",
+    "weight": "8.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42021",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42025",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42027",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42029",
+    "weight": "1.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42031",
+    "weight": "4.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42033",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42035",
+    "weight": "2.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42037",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42039",
+    "weight": "4.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42041",
+    "weight": "8.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42043",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42045",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42047",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42049",
+    "weight": "11.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42051",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42053",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42055",
+    "weight": "35.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42057",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42059",
+    "weight": "3.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42061",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42063",
+    "weight": "8.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42065",
+    "weight": "3.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42067",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42069",
+    "weight": "11.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42071",
+    "weight": "3.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42073",
+    "weight": "3.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42075",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42077",
+    "weight": "8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42079",
+    "weight": "5.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42081",
+    "weight": "16.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42083",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42085",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42087",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42089",
+    "weight": "1.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42091",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42093",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42095",
+    "weight": "2.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42097",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42099",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42103",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42105",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42107",
+    "weight": "7.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42109",
+    "weight": "3.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42111",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42113",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42115",
+    "weight": "9.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42117",
+    "weight": "3.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42119",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42121",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42123",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42125",
+    "weight": "4.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42127",
+    "weight": "9.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42129",
+    "weight": "3.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42131",
+    "weight": "10.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "42133",
+    "weight": "11"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "44001",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "44003",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "44005",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "44007",
+    "weight": "5.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "44009",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "45005",
+    "weight": "11.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "45009",
+    "weight": "34"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "45011",
+    "weight": "10.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "45013",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "45015",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "45019",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "45029",
+    "weight": "15.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "45035",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "45049",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "45053",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47001",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47003",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47007",
+    "weight": "6.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47009",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47011",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47015",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47019",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47021",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47025",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47027",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47029",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47031",
+    "weight": "1.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47035",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47037",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47041",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47045",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47049",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47051",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47055",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47057",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47059",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47065",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47073",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47087",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47089",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47093",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47099",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47103",
+    "weight": "5.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47105",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47107",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47111",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47117",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47119",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47123",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47125",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47129",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47133",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47137",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47141",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47145",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47147",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47149",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47151",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47153",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47155",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47159",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47161",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47163",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47165",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47171",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47177",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47179",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47185",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47187",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "47189",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48005",
+    "weight": "3.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48007",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48013",
+    "weight": "89.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48015",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48017",
+    "weight": "37.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48021",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48025",
+    "weight": "1.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48027",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48029",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48039",
+    "weight": "91.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48041",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48053",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48057",
+    "weight": "4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48071",
+    "weight": "11.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48085",
+    "weight": "1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48089",
+    "weight": "37.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48097",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48113",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48121",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48129",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48139",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48145",
+    "weight": "1.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48157",
+    "weight": "8.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48161",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48163",
+    "weight": "230.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48165",
+    "weight": "54.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48167",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48171",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48175",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48181",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48185",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48187",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48199",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48201",
+    "weight": "2.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48209",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48217",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48231",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48239",
+    "weight": "14.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48241",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48245",
+    "weight": "20.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48251",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48255",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48257",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48281",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48285",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48289",
+    "weight": "2.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48291",
+    "weight": "8.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48293",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48297",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48303",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48309",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48313",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48321",
+    "weight": "26.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48325",
+    "weight": "97.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48331",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48339",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48349",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48351",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48361",
+    "weight": "2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48369",
+    "weight": "677.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48373",
+    "weight": "2.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48395",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48403",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48407",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48437",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48439",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48445",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48453",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48457",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48461",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48463",
+    "weight": "76.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48469",
+    "weight": "5.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48471",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48473",
+    "weight": "10.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48477",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48481",
+    "weight": "51.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48491",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "48493",
+    "weight": "33.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "50001",
+    "weight": "20.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "50003",
+    "weight": "5.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "50005",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "50007",
+    "weight": "4.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "50011",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "50013",
+    "weight": "2.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "50015",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "50017",
+    "weight": "2.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "50019",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "50021",
+    "weight": "4.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "50023",
+    "weight": "2.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "50025",
+    "weight": "9.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "50027",
+    "weight": "4.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51015",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51023",
+    "weight": "5.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51035",
+    "weight": "4.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51063",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51067",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51071",
+    "weight": "1.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51077",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51083",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51089",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51091",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51105",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51111",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51121",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51135",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51141",
+    "weight": "5.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51143",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51161",
+    "weight": "1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51163",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51167",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51169",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51173",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51185",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51191",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51195",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "51197",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54001",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54003",
+    "weight": "27.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54005",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54007",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54009",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54011",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54013",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54015",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54017",
+    "weight": "1.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54019",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54021",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54025",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54027",
+    "weight": "9.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54031",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54033",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54035",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54037",
+    "weight": "5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54039",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54041",
+    "weight": "1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54043",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54047",
+    "weight": "4.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54049",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54051",
+    "weight": "2.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54053",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54055",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54057",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54061",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54065",
+    "weight": "4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54067",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54069",
+    "weight": "1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54071",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54073",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54075",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54077",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54079",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54081",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54083",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54085",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54087",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54089",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54091",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54095",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54097",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54099",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54101",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54103",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54107",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "54109",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55001",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55003",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55009",
+    "weight": "3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55015",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55019",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55029",
+    "weight": "1.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55039",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55047",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55051",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55057",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55061",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55067",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55069",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55071",
+    "weight": "1.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55073",
+    "weight": "2.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55075",
+    "weight": "6"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55077",
+    "weight": "11.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55083",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55087",
+    "weight": "3.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55097",
+    "weight": "65.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55115",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55117",
+    "weight": "3.7"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55119",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55135",
+    "weight": "43.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55137",
+    "weight": "34"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55139",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "55141",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "56003",
+    "weight": "72.5"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "56013",
+    "weight": "14.1"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "56017",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "56029",
+    "weight": "80.9"
+  },
+  {
+    "name": "BENOMYL",
+    "year": "2006",
+    "fips": "56043",
+    "weight": "58.4"
+  }
+]

@@ -1,0 +1,1580 @@
+[
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "4013",
+    "weight": "203.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "4021",
+    "weight": "37.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "4027",
+    "weight": "3180.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "6007",
+    "weight": "36.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "6019",
+    "weight": "1231.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "6029",
+    "weight": "4279"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "6039",
+    "weight": "372.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "6053",
+    "weight": "87.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "6059",
+    "weight": "76.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "6065",
+    "weight": "1452"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "6071",
+    "weight": "186.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "6073",
+    "weight": "120.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "6079",
+    "weight": "50.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "6099",
+    "weight": "2.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "6107",
+    "weight": "2348.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "6111",
+    "weight": "232.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12001",
+    "weight": "6.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12009",
+    "weight": "1674.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12011",
+    "weight": "81.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12015",
+    "weight": "4358.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12017",
+    "weight": "25.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12021",
+    "weight": "8087.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12023",
+    "weight": "0.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12025",
+    "weight": "254.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12027",
+    "weight": "19024.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12035",
+    "weight": "1.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12043",
+    "weight": "3179.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12049",
+    "weight": "14751"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12051",
+    "weight": "37167.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12053",
+    "weight": "134.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12055",
+    "weight": "20474"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12057",
+    "weight": "1660.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12061",
+    "weight": "14676.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12069",
+    "weight": "1443.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12071",
+    "weight": "3160.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12075",
+    "weight": "0.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12081",
+    "weight": "6495.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12083",
+    "weight": "150.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12085",
+    "weight": "13723.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12093",
+    "weight": "3175.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12095",
+    "weight": "805"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12097",
+    "weight": "1020.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12099",
+    "weight": "1512.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12101",
+    "weight": "993"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12103",
+    "weight": "18.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12105",
+    "weight": "11076.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12107",
+    "weight": "16"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12111",
+    "weight": "16871.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12115",
+    "weight": "418.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12117",
+    "weight": "79"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12119",
+    "weight": "3.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "12127",
+    "weight": "195.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "22001",
+    "weight": "9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "22003",
+    "weight": "8.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "22011",
+    "weight": "18.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "22019",
+    "weight": "54.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "22023",
+    "weight": "55.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "22053",
+    "weight": "13.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "22113",
+    "weight": "31.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "35007",
+    "weight": "0.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "35009",
+    "weight": "25.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "35011",
+    "weight": "0.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "35019",
+    "weight": "0.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "35037",
+    "weight": "16.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "35041",
+    "weight": "13.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "35047",
+    "weight": "0.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "35057",
+    "weight": "1.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "35059",
+    "weight": "2.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "40007",
+    "weight": "42.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "40009",
+    "weight": "4.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "40011",
+    "weight": "2.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "40025",
+    "weight": "52.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "40039",
+    "weight": "3.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "40043",
+    "weight": "2.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "40045",
+    "weight": "6.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "40059",
+    "weight": "4.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "40129",
+    "weight": "2.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "40139",
+    "weight": "86.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "40149",
+    "weight": "4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48003",
+    "weight": "1.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48005",
+    "weight": "11"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48007",
+    "weight": "3.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48011",
+    "weight": "15.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48013",
+    "weight": "22.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48015",
+    "weight": "11.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48017",
+    "weight": "9.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48019",
+    "weight": "14.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48021",
+    "weight": "13.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48025",
+    "weight": "21.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48027",
+    "weight": "11.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48029",
+    "weight": "14.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48031",
+    "weight": "17.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48033",
+    "weight": "2.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48035",
+    "weight": "21.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48039",
+    "weight": "123.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48041",
+    "weight": "36.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48045",
+    "weight": "4.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48047",
+    "weight": "25.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48051",
+    "weight": "11.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48053",
+    "weight": "21.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48055",
+    "weight": "10.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48057",
+    "weight": "57.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48061",
+    "weight": "444.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48065",
+    "weight": "46.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48069",
+    "weight": "20.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48071",
+    "weight": "54.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48075",
+    "weight": "3.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48079",
+    "weight": "3.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48081",
+    "weight": "24.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48085",
+    "weight": "6.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48087",
+    "weight": "8.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48089",
+    "weight": "15.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48091",
+    "weight": "7.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48095",
+    "weight": "24.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48097",
+    "weight": "14.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48099",
+    "weight": "17.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48101",
+    "weight": "2.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48105",
+    "weight": "91.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48107",
+    "weight": "8.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48111",
+    "weight": "21.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48113",
+    "weight": "1.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48115",
+    "weight": "9.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48117",
+    "weight": "50.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48119",
+    "weight": "3.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48121",
+    "weight": "10.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48123",
+    "weight": "23"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48125",
+    "weight": "8.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48127",
+    "weight": "35.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48129",
+    "weight": "2.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48131",
+    "weight": "45"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48137",
+    "weight": "53.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48139",
+    "weight": "11.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48145",
+    "weight": "10"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48147",
+    "weight": "11.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48149",
+    "weight": "18.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48153",
+    "weight": "26.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48155",
+    "weight": "6.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48157",
+    "weight": "84.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48161",
+    "weight": "56.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48163",
+    "weight": "22.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48165",
+    "weight": "21.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48167",
+    "weight": "29.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48169",
+    "weight": "2.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48171",
+    "weight": "26.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48173",
+    "weight": "1.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48175",
+    "weight": "20.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48177",
+    "weight": "24.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48179",
+    "weight": "11.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48181",
+    "weight": "10.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48185",
+    "weight": "63.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48187",
+    "weight": "11"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48189",
+    "weight": "9.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48191",
+    "weight": "11.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48193",
+    "weight": "18.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48195",
+    "weight": "22.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48197",
+    "weight": "5.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48199",
+    "weight": "7.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48201",
+    "weight": "57.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48205",
+    "weight": "13.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48209",
+    "weight": "9.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48211",
+    "weight": "0.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48215",
+    "weight": "3347.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48217",
+    "weight": "13"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48219",
+    "weight": "10.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48227",
+    "weight": "5.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48231",
+    "weight": "9.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48233",
+    "weight": "11.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48235",
+    "weight": "33.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48239",
+    "weight": "97.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48241",
+    "weight": "9.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48245",
+    "weight": "68"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48247",
+    "weight": "34.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48249",
+    "weight": "14.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48251",
+    "weight": "9.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48255",
+    "weight": "14.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48257",
+    "weight": "11.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48259",
+    "weight": "15"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48261",
+    "weight": "46.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48263",
+    "weight": "1.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48265",
+    "weight": "28.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48267",
+    "weight": "30.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48269",
+    "weight": "0.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48271",
+    "weight": "31.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48277",
+    "weight": "12.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48279",
+    "weight": "11.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48281",
+    "weight": "18"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48283",
+    "weight": "27.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48285",
+    "weight": "19.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48287",
+    "weight": "10.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48289",
+    "weight": "69.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48291",
+    "weight": "49.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48293",
+    "weight": "16.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48295",
+    "weight": "8.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48297",
+    "weight": "19"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48299",
+    "weight": "26.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48303",
+    "weight": "10.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48305",
+    "weight": "8.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48307",
+    "weight": "25.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48309",
+    "weight": "12.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48311",
+    "weight": "25.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48313",
+    "weight": "44.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48317",
+    "weight": "19.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48319",
+    "weight": "24.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48321",
+    "weight": "129.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48323",
+    "weight": "22.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48325",
+    "weight": "27.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48327",
+    "weight": "26.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48329",
+    "weight": "2.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48331",
+    "weight": "14.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48339",
+    "weight": "19.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48341",
+    "weight": "14.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48345",
+    "weight": "4.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48349",
+    "weight": "19.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48351",
+    "weight": "4.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48355",
+    "weight": "32.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48357",
+    "weight": "38.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48359",
+    "weight": "15.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48361",
+    "weight": "16.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48369",
+    "weight": "22.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48373",
+    "weight": "11.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48375",
+    "weight": "8.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48381",
+    "weight": "23.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48383",
+    "weight": "33.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48385",
+    "weight": "17.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48391",
+    "weight": "88.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48393",
+    "weight": "5.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48395",
+    "weight": "59.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48397",
+    "weight": "1.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48403",
+    "weight": "2.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48405",
+    "weight": "7.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48407",
+    "weight": "10"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48409",
+    "weight": "21.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48411",
+    "weight": "32.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48413",
+    "weight": "42"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48421",
+    "weight": "31.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48427",
+    "weight": "5.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48431",
+    "weight": "32.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48435",
+    "weight": "48.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48437",
+    "weight": "15.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48439",
+    "weight": "5.1"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48445",
+    "weight": "7.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48451",
+    "weight": "37.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48453",
+    "weight": "8.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48455",
+    "weight": "12.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48457",
+    "weight": "6.4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48461",
+    "weight": "35.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48463",
+    "weight": "44.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48465",
+    "weight": "85.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48469",
+    "weight": "132.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48471",
+    "weight": "29.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48473",
+    "weight": "28.3"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48477",
+    "weight": "11.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48479",
+    "weight": "101.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48481",
+    "weight": "81.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48483",
+    "weight": "4"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48485",
+    "weight": "2.6"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48487",
+    "weight": "6.5"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48489",
+    "weight": "28.9"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48491",
+    "weight": "15.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48493",
+    "weight": "12.7"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48501",
+    "weight": "5.8"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48505",
+    "weight": "21.2"
+  },
+  {
+    "name": "BROMACIL",
+    "year": "2006",
+    "fips": "48507",
+    "weight": "33.4"
+  }
+]

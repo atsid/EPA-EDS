@@ -1,0 +1,824 @@
+[
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "4003",
+    "weight": "10.6"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "4009",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "4012",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "4013",
+    "weight": "1.5"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "4017",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "4027",
+    "weight": "21.6"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6001",
+    "weight": "0.6"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6011",
+    "weight": "0.6"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6019",
+    "weight": "97.3"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6025",
+    "weight": "54.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6029",
+    "weight": "109"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6031",
+    "weight": "3.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6033",
+    "weight": "4.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6037",
+    "weight": "1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6045",
+    "weight": "0.3"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6047",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6053",
+    "weight": "157.8"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6059",
+    "weight": "3.5"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6065",
+    "weight": "14.4"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6067",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6069",
+    "weight": "20.8"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6073",
+    "weight": "35.4"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6077",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6079",
+    "weight": "26.8"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6081",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6083",
+    "weight": "40.8"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6085",
+    "weight": "6.9"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6087",
+    "weight": "27.6"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6097",
+    "weight": "0.4"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6099",
+    "weight": "26.4"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6101",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6107",
+    "weight": "10.6"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6111",
+    "weight": "305"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "6113",
+    "weight": "9.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "8001",
+    "weight": "0.4"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "8069",
+    "weight": "0.4"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "8087",
+    "weight": "0.6"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "8123",
+    "weight": "2.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12009",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12015",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12021",
+    "weight": "17"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12027",
+    "weight": "1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12043",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12049",
+    "weight": "1.4"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12051",
+    "weight": "7.3"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12055",
+    "weight": "1.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12057",
+    "weight": "15.7"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12061",
+    "weight": "2.4"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12069",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12071",
+    "weight": "0.4"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12081",
+    "weight": "46.9"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12085",
+    "weight": "0.9"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12086",
+    "weight": "8.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12093",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12095",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12097",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12099",
+    "weight": "7.7"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12101",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12105",
+    "weight": "2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12111",
+    "weight": "2.4"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "12127",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "16001",
+    "weight": "0.3"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "16027",
+    "weight": "4.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "16073",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "16075",
+    "weight": "0.9"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "16087",
+    "weight": "0.9"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "32019",
+    "weight": "2.7"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "39007",
+    "weight": "0.3"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "39029",
+    "weight": "0.4"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "39055",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "39085",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "39099",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "39103",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "39133",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "39151",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "39153",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "39155",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "39169",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "41005",
+    "weight": "0.4"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "41013",
+    "weight": "1.3"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "41017",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "41027",
+    "weight": "4.3"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "41031",
+    "weight": "1.6"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "41035",
+    "weight": "0.7"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "41039",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "41045",
+    "weight": "33.8"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "41047",
+    "weight": "4.3"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "41049",
+    "weight": "13.5"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "41059",
+    "weight": "1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "41065",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42005",
+    "weight": "0.4"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42007",
+    "weight": "0.3"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42013",
+    "weight": "0.8"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42015",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42019",
+    "weight": "0.6"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42021",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42027",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42031",
+    "weight": "0.3"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42033",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42035",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42039",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42043",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42049",
+    "weight": "0.6"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42051",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42059",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42061",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42063",
+    "weight": "0.6"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42065",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42067",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42073",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42085",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42087",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42093",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42097",
+    "weight": "0.3"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42099",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42111",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42117",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42121",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42123",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42125",
+    "weight": "0.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "42129",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "53001",
+    "weight": "8.9"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "53005",
+    "weight": "16.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "53007",
+    "weight": "3.6"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "53017",
+    "weight": "0.9"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "53021",
+    "weight": "17.2"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "53025",
+    "weight": "17.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "53037",
+    "weight": "0.3"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "53039",
+    "weight": "0.8"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "53043",
+    "weight": "0.9"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "53047",
+    "weight": "2.8"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "53059",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "53063",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "53071",
+    "weight": "4.4"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "53077",
+    "weight": "11.5"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "54017",
+    "weight": "0.1"
+  },
+  {
+    "name": "AZADIRACHTIN",
+    "year": "2009",
+    "fips": "54051",
+    "weight": "0.1"
+  }
+]

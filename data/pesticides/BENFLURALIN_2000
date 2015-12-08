@@ -1,0 +1,3206 @@
+[
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1005",
+    "weight": "5.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1011",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1013",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1031",
+    "weight": "11.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1035",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1039",
+    "weight": "5.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1041",
+    "weight": "1.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1043",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1045",
+    "weight": "5.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1047",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1053",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1061",
+    "weight": "14.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1067",
+    "weight": "13.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1069",
+    "weight": "20.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1081",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1087",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1097",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1099",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1109",
+    "weight": "3.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1113",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "1129",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4001",
+    "weight": "174.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4003",
+    "weight": "1039.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4005",
+    "weight": "26.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4007",
+    "weight": "28.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4009",
+    "weight": "225.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4011",
+    "weight": "58.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4012",
+    "weight": "3508.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4013",
+    "weight": "3952.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4015",
+    "weight": "323.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4017",
+    "weight": "82.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4019",
+    "weight": "112.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4021",
+    "weight": "1792.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4023",
+    "weight": "33.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4025",
+    "weight": "83"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "4027",
+    "weight": "34584.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6007",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6019",
+    "weight": "3777.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6025",
+    "weight": "3811.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6029",
+    "weight": "1033.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6031",
+    "weight": "43.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6037",
+    "weight": "5.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6039",
+    "weight": "99.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6045",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6047",
+    "weight": "813.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6053",
+    "weight": "403.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6059",
+    "weight": "2.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6065",
+    "weight": "301.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6067",
+    "weight": "313.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6069",
+    "weight": "111.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6073",
+    "weight": "4.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6077",
+    "weight": "50.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6079",
+    "weight": "4.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6083",
+    "weight": "16.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6085",
+    "weight": "10"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6087",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6099",
+    "weight": "143.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6107",
+    "weight": "246.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6111",
+    "weight": "42"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "6113",
+    "weight": "594.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12001",
+    "weight": "17.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12013",
+    "weight": "5.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12023",
+    "weight": "12.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12033",
+    "weight": "1.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12039",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12041",
+    "weight": "3.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12047",
+    "weight": "1.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12057",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12059",
+    "weight": "4.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12063",
+    "weight": "34.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12065",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12067",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12069",
+    "weight": "1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12073",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12075",
+    "weight": "100.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12079",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12083",
+    "weight": "45.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12091",
+    "weight": "5.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12107",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12113",
+    "weight": "12.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12119",
+    "weight": "7.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12121",
+    "weight": "12.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12125",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12131",
+    "weight": "5.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "12133",
+    "weight": "1.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13001",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13003",
+    "weight": "10.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13005",
+    "weight": "28.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13007",
+    "weight": "18.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13017",
+    "weight": "19.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13019",
+    "weight": "28.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13023",
+    "weight": "51.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13025",
+    "weight": "10.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13027",
+    "weight": "16.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13029",
+    "weight": "13.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13031",
+    "weight": "577.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13033",
+    "weight": "188.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13037",
+    "weight": "18.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13043",
+    "weight": "60"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13061",
+    "weight": "9.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13069",
+    "weight": "27.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13071",
+    "weight": "38.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13075",
+    "weight": "19.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13081",
+    "weight": "41.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13087",
+    "weight": "25.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13091",
+    "weight": "81.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13093",
+    "weight": "56.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13095",
+    "weight": "7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13099",
+    "weight": "33.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13103",
+    "weight": "49.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13107",
+    "weight": "65.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13109",
+    "weight": "16.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13125",
+    "weight": "15.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13131",
+    "weight": "10.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13153",
+    "weight": "62.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13155",
+    "weight": "56.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13161",
+    "weight": "2.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13163",
+    "weight": "51.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13165",
+    "weight": "81.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13167",
+    "weight": "11.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13173",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13175",
+    "weight": "83.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13177",
+    "weight": "13.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13185",
+    "weight": "4.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13193",
+    "weight": "4.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13197",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13201",
+    "weight": "27.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13205",
+    "weight": "27.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13209",
+    "weight": "12.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13225",
+    "weight": "2.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13229",
+    "weight": "49.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13235",
+    "weight": "168"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13239",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13243",
+    "weight": "18.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13245",
+    "weight": "1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13249",
+    "weight": "2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13251",
+    "weight": "204.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13253",
+    "weight": "18.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13259",
+    "weight": "5.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13261",
+    "weight": "16.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13267",
+    "weight": "25.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13269",
+    "weight": "1.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13271",
+    "weight": "10"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13273",
+    "weight": "16.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13275",
+    "weight": "5.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13277",
+    "weight": "46.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13279",
+    "weight": "19.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13283",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13287",
+    "weight": "41.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13289",
+    "weight": "12.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13299",
+    "weight": "43.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13303",
+    "weight": "13.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13305",
+    "weight": "40.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13307",
+    "weight": "10.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13309",
+    "weight": "10.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13315",
+    "weight": "40.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13319",
+    "weight": "8.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "13321",
+    "weight": "94.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19021",
+    "weight": "10.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19023",
+    "weight": "21.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19033",
+    "weight": "11.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19035",
+    "weight": "27.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19041",
+    "weight": "12.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19059",
+    "weight": "17.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19063",
+    "weight": "7.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19067",
+    "weight": "16.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19069",
+    "weight": "13.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19081",
+    "weight": "8.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19091",
+    "weight": "5.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19109",
+    "weight": "17.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19119",
+    "weight": "21.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19131",
+    "weight": "15.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19141",
+    "weight": "13"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19143",
+    "weight": "15.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19147",
+    "weight": "8.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19149",
+    "weight": "40.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19151",
+    "weight": "7.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19167",
+    "weight": "25.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19189",
+    "weight": "8.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19195",
+    "weight": "13"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "19197",
+    "weight": "5.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "20005",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "20043",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "20103",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21001",
+    "weight": "65.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21003",
+    "weight": "44.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21005",
+    "weight": "36.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21009",
+    "weight": "137.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21011",
+    "weight": "94.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21013",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21017",
+    "weight": "158.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21019",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21021",
+    "weight": "57.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21025",
+    "weight": "14"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21027",
+    "weight": "94.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21029",
+    "weight": "15.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21031",
+    "weight": "10.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21043",
+    "weight": "47.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21045",
+    "weight": "87.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21049",
+    "weight": "94.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21051",
+    "weight": "36.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21053",
+    "weight": "34.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21057",
+    "weight": "29.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21061",
+    "weight": "24.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21063",
+    "weight": "29.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21065",
+    "weight": "20.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21067",
+    "weight": "110.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21069",
+    "weight": "111.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21071",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21073",
+    "weight": "65.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21079",
+    "weight": "90.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21085",
+    "weight": "52.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21087",
+    "weight": "84.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21089",
+    "weight": "32.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21093",
+    "weight": "58.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21095",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21097",
+    "weight": "128"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21099",
+    "weight": "121.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21109",
+    "weight": "47.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21111",
+    "weight": "7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21113",
+    "weight": "88.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21115",
+    "weight": "10.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21121",
+    "weight": "12.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21123",
+    "weight": "38.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21125",
+    "weight": "58"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21127",
+    "weight": "12.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21129",
+    "weight": "7.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21131",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21135",
+    "weight": "73.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21137",
+    "weight": "92"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21147",
+    "weight": "1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21151",
+    "weight": "139.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21153",
+    "weight": "22.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21155",
+    "weight": "71.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21161",
+    "weight": "126.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21163",
+    "weight": "22.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21165",
+    "weight": "22.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21167",
+    "weight": "90.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21169",
+    "weight": "69"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21171",
+    "weight": "51.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21173",
+    "weight": "84.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21175",
+    "weight": "62.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21179",
+    "weight": "59.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21181",
+    "weight": "80.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21189",
+    "weight": "23"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21193",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21195",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21197",
+    "weight": "14.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21199",
+    "weight": "84.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21201",
+    "weight": "34"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21203",
+    "weight": "42"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21205",
+    "weight": "25.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21207",
+    "weight": "47.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21209",
+    "weight": "129.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21211",
+    "weight": "146.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21215",
+    "weight": "58.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21217",
+    "weight": "61.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21227",
+    "weight": "64.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21229",
+    "weight": "84"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21231",
+    "weight": "38.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21235",
+    "weight": "7.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21237",
+    "weight": "29.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "21239",
+    "weight": "132.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27009",
+    "weight": "79.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27013",
+    "weight": "11.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27015",
+    "weight": "40.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27019",
+    "weight": "53.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27033",
+    "weight": "16.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27037",
+    "weight": "33.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27039",
+    "weight": "40.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27043",
+    "weight": "6.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27045",
+    "weight": "140.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27047",
+    "weight": "22.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27049",
+    "weight": "133.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27055",
+    "weight": "115.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27063",
+    "weight": "13"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27067",
+    "weight": "72.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27079",
+    "weight": "20.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27081",
+    "weight": "49.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27083",
+    "weight": "34.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27085",
+    "weight": "46.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27091",
+    "weight": "12"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27093",
+    "weight": "39.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27097",
+    "weight": "156.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27099",
+    "weight": "32.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27101",
+    "weight": "31.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27103",
+    "weight": "22.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27105",
+    "weight": "31.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27109",
+    "weight": "96.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27117",
+    "weight": "44.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27127",
+    "weight": "29.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27129",
+    "weight": "23.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27131",
+    "weight": "38.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27133",
+    "weight": "25"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27139",
+    "weight": "44.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27141",
+    "weight": "20.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27143",
+    "weight": "34.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27145",
+    "weight": "305.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27147",
+    "weight": "29.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27153",
+    "weight": "160"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27157",
+    "weight": "145.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27159",
+    "weight": "61.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27161",
+    "weight": "22.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27165",
+    "weight": "5.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27169",
+    "weight": "178"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "27171",
+    "weight": "88.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "28039",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "28041",
+    "weight": "1.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "28059",
+    "weight": "2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "29003",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "29021",
+    "weight": "8.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "29041",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "29047",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "29049",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "29101",
+    "weight": "2.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "29165",
+    "weight": "20.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "29177",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "29185",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "32003",
+    "weight": "115.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "32009",
+    "weight": "404"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "32017",
+    "weight": "461.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "32021",
+    "weight": "230.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "32023",
+    "weight": "404"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "35023",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "35029",
+    "weight": "59.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "35051",
+    "weight": "12.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37001",
+    "weight": "13.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37003",
+    "weight": "17.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37005",
+    "weight": "24.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37007",
+    "weight": "3.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37009",
+    "weight": "41.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37011",
+    "weight": "2.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37013",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37015",
+    "weight": "43.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37017",
+    "weight": "13.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37019",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37021",
+    "weight": "47.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37023",
+    "weight": "5.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37025",
+    "weight": "13.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37027",
+    "weight": "5.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37031",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37033",
+    "weight": "13.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37035",
+    "weight": "18.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37037",
+    "weight": "14.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37039",
+    "weight": "9.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37041",
+    "weight": "14.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37043",
+    "weight": "10.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37045",
+    "weight": "19.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37047",
+    "weight": "2.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37049",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37051",
+    "weight": "4.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37053",
+    "weight": "3.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37057",
+    "weight": "46.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37059",
+    "weight": "6.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37061",
+    "weight": "2.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37063",
+    "weight": "16.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37065",
+    "weight": "33.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37067",
+    "weight": "19.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37069",
+    "weight": "10.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37071",
+    "weight": "16.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37073",
+    "weight": "16.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37075",
+    "weight": "5.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37077",
+    "weight": "23.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37079",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37081",
+    "weight": "20.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37083",
+    "weight": "52.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37085",
+    "weight": "2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37087",
+    "weight": "29.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37089",
+    "weight": "8.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37091",
+    "weight": "27.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37093",
+    "weight": "9.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37097",
+    "weight": "52.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37099",
+    "weight": "5.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37101",
+    "weight": "6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37103",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37105",
+    "weight": "5.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37107",
+    "weight": "3.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37109",
+    "weight": "21"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37111",
+    "weight": "11.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37113",
+    "weight": "6.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37115",
+    "weight": "29.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37117",
+    "weight": "33.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37119",
+    "weight": "6.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37121",
+    "weight": "10.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37123",
+    "weight": "8.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37125",
+    "weight": "3.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37127",
+    "weight": "8.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37131",
+    "weight": "52.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37133",
+    "weight": "3.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37135",
+    "weight": "13.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37137",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37139",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37141",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37143",
+    "weight": "7.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37145",
+    "weight": "5.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37147",
+    "weight": "11.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37149",
+    "weight": "7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37151",
+    "weight": "14.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37153",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37155",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37157",
+    "weight": "21.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37159",
+    "weight": "41.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37161",
+    "weight": "13.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37163",
+    "weight": "12.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37165",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37167",
+    "weight": "28.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37169",
+    "weight": "19.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37171",
+    "weight": "34.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37173",
+    "weight": "28.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37175",
+    "weight": "6.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37177",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37179",
+    "weight": "7.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37181",
+    "weight": "3.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37183",
+    "weight": "11.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37185",
+    "weight": "6.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37187",
+    "weight": "6.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37189",
+    "weight": "16.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37191",
+    "weight": "3.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37193",
+    "weight": "28.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37195",
+    "weight": "2.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37197",
+    "weight": "41.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "37199",
+    "weight": "15.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "39001",
+    "weight": "74"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "39015",
+    "weight": "100"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "39053",
+    "weight": "32.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "39071",
+    "weight": "20.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "39079",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "39087",
+    "weight": "11.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "39131",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "39145",
+    "weight": "10.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45003",
+    "weight": "18"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45005",
+    "weight": "22.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45009",
+    "weight": "8.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45011",
+    "weight": "50.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45015",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45017",
+    "weight": "23.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45019",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45027",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45029",
+    "weight": "3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45031",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45033",
+    "weight": "5.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45035",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45037",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45041",
+    "weight": "1.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45043",
+    "weight": "1.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45049",
+    "weight": "21.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45051",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45061",
+    "weight": "5.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45063",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45067",
+    "weight": "3.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45069",
+    "weight": "2.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45071",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45075",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45079",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45081",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45085",
+    "weight": "6.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "45089",
+    "weight": "9.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47001",
+    "weight": "1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47007",
+    "weight": "0.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47009",
+    "weight": "6.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47011",
+    "weight": "4.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47013",
+    "weight": "7.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47019",
+    "weight": "11.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47025",
+    "weight": "73.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47029",
+    "weight": "24.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47031",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47035",
+    "weight": "3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47049",
+    "weight": "9.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47051",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47057",
+    "weight": "45.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47059",
+    "weight": "134.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47063",
+    "weight": "21.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47067",
+    "weight": "31.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47073",
+    "weight": "77.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47089",
+    "weight": "26.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47091",
+    "weight": "27.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47093",
+    "weight": "4.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47105",
+    "weight": "5.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47107",
+    "weight": "16.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47121",
+    "weight": "3.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47123",
+    "weight": "12.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47129",
+    "weight": "2.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47133",
+    "weight": "12.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47137",
+    "weight": "22.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47139",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47141",
+    "weight": "15.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47143",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47145",
+    "weight": "2.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47151",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47155",
+    "weight": "11.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47163",
+    "weight": "28.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47171",
+    "weight": "3.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47173",
+    "weight": "14.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47175",
+    "weight": "0.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47177",
+    "weight": "5.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47179",
+    "weight": "68.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "47185",
+    "weight": "16"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51021",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51027",
+    "weight": "2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51035",
+    "weight": "1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51051",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51053",
+    "weight": "6.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51063",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51077",
+    "weight": "10.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51081",
+    "weight": "15.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51093",
+    "weight": "34.8"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51105",
+    "weight": "57.9"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51111",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51121",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51149",
+    "weight": "4.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51167",
+    "weight": "45.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51169",
+    "weight": "66.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51173",
+    "weight": "24.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51175",
+    "weight": "61.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51181",
+    "weight": "16"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51183",
+    "weight": "23.5"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51185",
+    "weight": "2.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51191",
+    "weight": "81.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51195",
+    "weight": "0.7"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51197",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51550",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "51800",
+    "weight": "30.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "54005",
+    "weight": "0.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "54011",
+    "weight": "9.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "54035",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "54039",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "54043",
+    "weight": "11.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "54045",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "54053",
+    "weight": "13.6"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "54079",
+    "weight": "10.3"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "54081",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "54087",
+    "weight": "0.4"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "54099",
+    "weight": "1"
+  },
+  {
+    "name": "BENFLURALIN",
+    "year": "2000",
+    "fips": "54105",
+    "weight": "0.9"
+  }
+]

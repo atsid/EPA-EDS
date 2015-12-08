@@ -1,0 +1,746 @@
+[
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5003",
+    "weight": "4.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5017",
+    "weight": "9.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5019",
+    "weight": "0.3"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5021",
+    "weight": "12.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5029",
+    "weight": "3.8"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5031",
+    "weight": "12.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5033",
+    "weight": "0.6"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5035",
+    "weight": "14.8"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5037",
+    "weight": "39.9"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5041",
+    "weight": "9.7"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5043",
+    "weight": "4"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5045",
+    "weight": "17.7"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5055",
+    "weight": "11.6"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5059",
+    "weight": "4.9"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5063",
+    "weight": "1.6"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5067",
+    "weight": "14"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5069",
+    "weight": "20.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5073",
+    "weight": "20.7"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5075",
+    "weight": "16.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5077",
+    "weight": "9.4"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5079",
+    "weight": "10.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5081",
+    "weight": "7.7"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5083",
+    "weight": "2.6"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5085",
+    "weight": "31.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5091",
+    "weight": "35.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5093",
+    "weight": "6.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5095",
+    "weight": "19.6"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5105",
+    "weight": "9.3"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5107",
+    "weight": "11.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5111",
+    "weight": "18.8"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5115",
+    "weight": "5.3"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5117",
+    "weight": "26.8"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5119",
+    "weight": "18.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5121",
+    "weight": "5.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5123",
+    "weight": "16.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5145",
+    "weight": "2.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5147",
+    "weight": "23.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "5149",
+    "weight": "4.4"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "6007",
+    "weight": "98.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "6011",
+    "weight": "318.6"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "6019",
+    "weight": "13.7"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "6021",
+    "weight": "77.6"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "6047",
+    "weight": "14"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "6061",
+    "weight": "5.6"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "6067",
+    "weight": "3.7"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "6077",
+    "weight": "19.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "6101",
+    "weight": "94.9"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "6113",
+    "weight": "55"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "6115",
+    "weight": "58"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22001",
+    "weight": "22.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22003",
+    "weight": "3.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22009",
+    "weight": "0.6"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22011",
+    "weight": "0.6"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22019",
+    "weight": "2.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22021",
+    "weight": "0.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22023",
+    "weight": "4"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22025",
+    "weight": "0.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22029",
+    "weight": "0.4"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22035",
+    "weight": "1.7"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22039",
+    "weight": "1.6"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22041",
+    "weight": "0.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22045",
+    "weight": "0.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22053",
+    "weight": "20"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22055",
+    "weight": "0.9"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22065",
+    "weight": "0.9"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22067",
+    "weight": "3.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22069",
+    "weight": "0.8"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22073",
+    "weight": "1.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22077",
+    "weight": "0.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22079",
+    "weight": "0.4"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22083",
+    "weight": "0.7"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22097",
+    "weight": "1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22099",
+    "weight": "1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22107",
+    "weight": "0.3"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22113",
+    "weight": "11"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "22123",
+    "weight": "0.7"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28011",
+    "weight": "46.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28027",
+    "weight": "8.7"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28033",
+    "weight": "2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28043",
+    "weight": "0.4"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28051",
+    "weight": "0.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28053",
+    "weight": "0.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28055",
+    "weight": "0.4"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28083",
+    "weight": "2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28107",
+    "weight": "2.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28119",
+    "weight": "10.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28125",
+    "weight": "0.6"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28133",
+    "weight": "4"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28135",
+    "weight": "9"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28137",
+    "weight": "0.3"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28143",
+    "weight": "19.9"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28151",
+    "weight": "3.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "28163",
+    "weight": "0.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "29017",
+    "weight": "0.4"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "29023",
+    "weight": "30.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "29069",
+    "weight": "7.2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "29133",
+    "weight": "0.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "29143",
+    "weight": "12"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "29155",
+    "weight": "11.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "29181",
+    "weight": "1.8"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "29201",
+    "weight": "0.4"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "29207",
+    "weight": "24.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "47045",
+    "weight": "0.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48015",
+    "weight": "0.3"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48037",
+    "weight": "0.7"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48039",
+    "weight": "22.9"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48057",
+    "weight": "4.9"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48071",
+    "weight": "14.4"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48089",
+    "weight": "7.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48157",
+    "weight": "9.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48167",
+    "weight": "2"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48199",
+    "weight": "0.4"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48201",
+    "weight": "1.9"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48223",
+    "weight": "0.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48239",
+    "weight": "17.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48245",
+    "weight": "25"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48285",
+    "weight": "0.3"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48291",
+    "weight": "9.6"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48321",
+    "weight": "31.9"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48361",
+    "weight": "1.5"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48387",
+    "weight": "0.1"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48469",
+    "weight": "2.6"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48473",
+    "weight": "2.4"
+  },
+  {
+    "name": "BISPYRIBAC",
+    "year": "2006",
+    "fips": "48481",
+    "weight": "62.2"
+  }
+]

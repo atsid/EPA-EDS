@@ -1,0 +1,746 @@
+[
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5003",
+    "weight": "38.3"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5017",
+    "weight": "81"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5019",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5021",
+    "weight": "96.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5029",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5031",
+    "weight": "100.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5033",
+    "weight": "0.2"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5035",
+    "weight": "71.1"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5037",
+    "weight": "198.3"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5041",
+    "weight": "104.3"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5043",
+    "weight": "39.3"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5045",
+    "weight": "5.9"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5055",
+    "weight": "79.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5059",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5063",
+    "weight": "11.6"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5067",
+    "weight": "106.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5069",
+    "weight": "150"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5073",
+    "weight": "7.4"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5075",
+    "weight": "122.2"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5077",
+    "weight": "51.3"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5079",
+    "weight": "80.5"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5081",
+    "weight": "2.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5083",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5085",
+    "weight": "145.6"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5091",
+    "weight": "12.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5093",
+    "weight": "50.5"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5095",
+    "weight": "97.1"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5105",
+    "weight": "3.1"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5107",
+    "weight": "48.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5111",
+    "weight": "163.1"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5115",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5117",
+    "weight": "127.4"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5119",
+    "weight": "8.9"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5121",
+    "weight": "37.2"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5123",
+    "weight": "89.3"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5145",
+    "weight": "20.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5147",
+    "weight": "116.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "5149",
+    "weight": "2.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "6007",
+    "weight": "50.6"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "6011",
+    "weight": "86.6"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "6019",
+    "weight": "26.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "6021",
+    "weight": "58.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "6039",
+    "weight": "2.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "6047",
+    "weight": "54"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "6061",
+    "weight": "9.5"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "6101",
+    "weight": "140.5"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "6113",
+    "weight": "123.4"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "6115",
+    "weight": "30.6"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22001",
+    "weight": "683.4"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22003",
+    "weight": "155.6"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22009",
+    "weight": "90.9"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22011",
+    "weight": "17"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22019",
+    "weight": "77.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22021",
+    "weight": "5.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22023",
+    "weight": "147.6"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22025",
+    "weight": "23.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22029",
+    "weight": "81.5"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22035",
+    "weight": "76.4"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22039",
+    "weight": "348"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22041",
+    "weight": "4.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22045",
+    "weight": "3"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22053",
+    "weight": "684.3"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22055",
+    "weight": "13.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22061",
+    "weight": "0.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22065",
+    "weight": "23.2"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22067",
+    "weight": "136.6"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22069",
+    "weight": "33.1"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22073",
+    "weight": "41.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22077",
+    "weight": "18.2"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22079",
+    "weight": "50.6"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22083",
+    "weight": "30.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22097",
+    "weight": "146.3"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22099",
+    "weight": "5.1"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22107",
+    "weight": "11.9"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22113",
+    "weight": "604.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "22123",
+    "weight": "28"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28011",
+    "weight": "112.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28027",
+    "weight": "16.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28033",
+    "weight": "6.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28043",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28051",
+    "weight": "1.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28053",
+    "weight": "7.6"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28055",
+    "weight": "5.9"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28083",
+    "weight": "34.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28107",
+    "weight": "4.9"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28119",
+    "weight": "13.3"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28125",
+    "weight": "7.3"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28133",
+    "weight": "63"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28135",
+    "weight": "24.4"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28137",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28143",
+    "weight": "34.5"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28151",
+    "weight": "54.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "28163",
+    "weight": "2.1"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "29017",
+    "weight": "1.2"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "29023",
+    "weight": "6.4"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "29069",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "29133",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "29143",
+    "weight": "1.9"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "29155",
+    "weight": "1.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "29181",
+    "weight": "3.5"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "29201",
+    "weight": "0.1"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "29207",
+    "weight": "5"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "47045",
+    "weight": "1.4"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48015",
+    "weight": "1.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48037",
+    "weight": "9.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48039",
+    "weight": "10.9"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48057",
+    "weight": "2"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48071",
+    "weight": "11.2"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48089",
+    "weight": "28.9"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48157",
+    "weight": "6.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48167",
+    "weight": "1.1"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48199",
+    "weight": "5.1"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48201",
+    "weight": "1.8"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48223",
+    "weight": "7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48239",
+    "weight": "13.9"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48245",
+    "weight": "15.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48285",
+    "weight": "1.6"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48291",
+    "weight": "8.2"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48321",
+    "weight": "19.6"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48361",
+    "weight": "0.9"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48387",
+    "weight": "4.7"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48469",
+    "weight": "1.3"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48473",
+    "weight": "34.6"
+  },
+  {
+    "name": "BENSULFURON",
+    "year": "2003",
+    "fips": "48481",
+    "weight": "47.4"
+  }
+]

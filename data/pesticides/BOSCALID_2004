@@ -1,0 +1,6770 @@
+[
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1003",
+    "weight": "8.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1005",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1011",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1013",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1023",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1025",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1031",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1035",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1039",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1041",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1045",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1047",
+    "weight": "4.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1051",
+    "weight": "1.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1053",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1059",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1061",
+    "weight": "4.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1063",
+    "weight": "1.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1065",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1067",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1069",
+    "weight": "42.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1077",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1085",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1087",
+    "weight": "1.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1089",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1091",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1097",
+    "weight": "6.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1099",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1101",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1103",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1105",
+    "weight": "2.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1109",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1113",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1119",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1129",
+    "weight": "1.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "1131",
+    "weight": "3.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "4001",
+    "weight": "11.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "4003",
+    "weight": "51.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "4005",
+    "weight": "6.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "4009",
+    "weight": "2.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "4012",
+    "weight": "228"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "4013",
+    "weight": "596.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "4015",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "4017",
+    "weight": "15.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "4019",
+    "weight": "2.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "4021",
+    "weight": "307.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "4023",
+    "weight": "8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "4025",
+    "weight": "6.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "4027",
+    "weight": "1778.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "5021",
+    "weight": "7.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "5031",
+    "weight": "1.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "5063",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "5067",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "5075",
+    "weight": "1.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "5093",
+    "weight": "6.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "5121",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "5145",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6001",
+    "weight": "30.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6005",
+    "weight": "28"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6007",
+    "weight": "747"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6009",
+    "weight": "36.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6011",
+    "weight": "659.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6013",
+    "weight": "66.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6017",
+    "weight": "48.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6019",
+    "weight": "1545.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6021",
+    "weight": "546.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6025",
+    "weight": "254.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6029",
+    "weight": "5001.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6031",
+    "weight": "223.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6033",
+    "weight": "50.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6035",
+    "weight": "5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6037",
+    "weight": "134"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6039",
+    "weight": "2474.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6041",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6043",
+    "weight": "2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6045",
+    "weight": "150"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6047",
+    "weight": "1803.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6049",
+    "weight": "229.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6053",
+    "weight": "2382.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6055",
+    "weight": "963.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6057",
+    "weight": "4.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6059",
+    "weight": "226"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6061",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6065",
+    "weight": "1309.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6067",
+    "weight": "387.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6069",
+    "weight": "134"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6071",
+    "weight": "5.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6077",
+    "weight": "1564"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6079",
+    "weight": "508.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6081",
+    "weight": "17.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6083",
+    "weight": "1950.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6085",
+    "weight": "60.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6087",
+    "weight": "226.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6089",
+    "weight": "30.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6093",
+    "weight": "202.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6095",
+    "weight": "42.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6097",
+    "weight": "1584.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6099",
+    "weight": "2021.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6101",
+    "weight": "122.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6103",
+    "weight": "75.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6107",
+    "weight": "6216.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6111",
+    "weight": "2203.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6113",
+    "weight": "442.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "6115",
+    "weight": "6.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8003",
+    "weight": "655.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8007",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8013",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8021",
+    "weight": "35"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8023",
+    "weight": "146.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8029",
+    "weight": "54.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8045",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8067",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8069",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8077",
+    "weight": "4.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8083",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8085",
+    "weight": "47"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8087",
+    "weight": "225.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8095",
+    "weight": "376.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8097",
+    "weight": "2.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8105",
+    "weight": "655.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8109",
+    "weight": "518.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8123",
+    "weight": "114.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "8125",
+    "weight": "5240.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "9001",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "9003",
+    "weight": "16.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "9005",
+    "weight": "2.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "9007",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "9009",
+    "weight": "4.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "9011",
+    "weight": "1.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "9013",
+    "weight": "3.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "9015",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "10001",
+    "weight": "24.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "10003",
+    "weight": "1.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "10005",
+    "weight": "26.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12001",
+    "weight": "10"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12003",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12005",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12007",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12009",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12015",
+    "weight": "4.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12017",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12021",
+    "weight": "3.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12023",
+    "weight": "1.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12025",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12027",
+    "weight": "3.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12029",
+    "weight": "7.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12033",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12039",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12041",
+    "weight": "7.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12043",
+    "weight": "1.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12049",
+    "weight": "2.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12051",
+    "weight": "7.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12053",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12055",
+    "weight": "3.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12057",
+    "weight": "43.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12059",
+    "weight": "6.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12063",
+    "weight": "26"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12065",
+    "weight": "3.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12067",
+    "weight": "11.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12069",
+    "weight": "1.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12071",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12073",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12075",
+    "weight": "13.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12079",
+    "weight": "1.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12081",
+    "weight": "7.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12083",
+    "weight": "6.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12085",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12091",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12093",
+    "weight": "1.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12099",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12101",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12105",
+    "weight": "2.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12113",
+    "weight": "1.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12115",
+    "weight": "1.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12117",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12119",
+    "weight": "3.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12121",
+    "weight": "21.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12123",
+    "weight": "2.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12125",
+    "weight": "1.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12127",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12129",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12131",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "12133",
+    "weight": "2.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13001",
+    "weight": "3.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13003",
+    "weight": "11.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13005",
+    "weight": "7.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13009",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13011",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13013",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13017",
+    "weight": "3.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13019",
+    "weight": "31.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13021",
+    "weight": "2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13025",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13027",
+    "weight": "54.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13031",
+    "weight": "142.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13033",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13039",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13045",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13057",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13059",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13069",
+    "weight": "8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13071",
+    "weight": "94.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13075",
+    "weight": "38.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13077",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13079",
+    "weight": "1.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13081",
+    "weight": "89.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13087",
+    "weight": "6.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13091",
+    "weight": "18.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13093",
+    "weight": "40.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13097",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13101",
+    "weight": "24"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13103",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13109",
+    "weight": "15.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13113",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13117",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13119",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13131",
+    "weight": "1.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13139",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13145",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13147",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13151",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13153",
+    "weight": "2.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13155",
+    "weight": "7.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13157",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13161",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13163",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13167",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13175",
+    "weight": "4.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13177",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13185",
+    "weight": "8.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13193",
+    "weight": "9.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13195",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13197",
+    "weight": "12"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13205",
+    "weight": "27.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13209",
+    "weight": "28"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13219",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13221",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13225",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13229",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13231",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13235",
+    "weight": "12.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13241",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13245",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13249",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13251",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13253",
+    "weight": "2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13261",
+    "weight": "41.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13263",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13267",
+    "weight": "495.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13269",
+    "weight": "14.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13271",
+    "weight": "23.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13275",
+    "weight": "3.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13277",
+    "weight": "98"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13279",
+    "weight": "300.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13283",
+    "weight": "7.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13287",
+    "weight": "32.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13289",
+    "weight": "1.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13291",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13297",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13299",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13305",
+    "weight": "3.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13307",
+    "weight": "12.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13309",
+    "weight": "71.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13311",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13315",
+    "weight": "93.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13317",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13319",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "13321",
+    "weight": "47.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16001",
+    "weight": "29"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16005",
+    "weight": "19.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16011",
+    "weight": "310"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16013",
+    "weight": "24.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16017",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16019",
+    "weight": "165.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16021",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16023",
+    "weight": "11.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16027",
+    "weight": "367.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16029",
+    "weight": "36.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16031",
+    "weight": "423.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16033",
+    "weight": "74.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16037",
+    "weight": "2.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16039",
+    "weight": "86"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16041",
+    "weight": "2.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16043",
+    "weight": "162.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16045",
+    "weight": "1.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16047",
+    "weight": "96.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16051",
+    "weight": "133.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16053",
+    "weight": "148.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16055",
+    "weight": "1.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16057",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16059",
+    "weight": "2.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16063",
+    "weight": "28.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16065",
+    "weight": "166.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16067",
+    "weight": "388.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16071",
+    "weight": "3.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16073",
+    "weight": "43.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16075",
+    "weight": "98.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16077",
+    "weight": "214.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16081",
+    "weight": "37.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16083",
+    "weight": "200.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16085",
+    "weight": "4.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "16087",
+    "weight": "86.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "17007",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "17011",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "17077",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "17089",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "17097",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "17111",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "17141",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "17163",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "17181",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "17195",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "17197",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "17199",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "17201",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "18001",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "18003",
+    "weight": "1.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "18015",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "18033",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "18039",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "18049",
+    "weight": "28.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "18069",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "18085",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "18087",
+    "weight": "9.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "18099",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "18113",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "18169",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "18183",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "21035",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "21143",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "21145",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "21221",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "22033",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "22037",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "22063",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "22091",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "22103",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "22105",
+    "weight": "2.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "22117",
+    "weight": "10.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "23003",
+    "weight": "63.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "23019",
+    "weight": "3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "23021",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24001",
+    "weight": "1.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24003",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24005",
+    "weight": "23.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24009",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24011",
+    "weight": "23.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24013",
+    "weight": "22.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24015",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24017",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24019",
+    "weight": "17.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24021",
+    "weight": "40.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24023",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24025",
+    "weight": "8.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24027",
+    "weight": "5.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24029",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24031",
+    "weight": "14"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24033",
+    "weight": "7.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24035",
+    "weight": "7.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24037",
+    "weight": "1.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24039",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24041",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24043",
+    "weight": "6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "24045",
+    "weight": "3.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "25001",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "25003",
+    "weight": "2.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "25005",
+    "weight": "7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "25009",
+    "weight": "3.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "25011",
+    "weight": "6.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "25013",
+    "weight": "3.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "25015",
+    "weight": "16.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "25017",
+    "weight": "6.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "25021",
+    "weight": "1.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "25023",
+    "weight": "1.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "25027",
+    "weight": "6.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26005",
+    "weight": "14.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26007",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26009",
+    "weight": "139.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26015",
+    "weight": "4.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26017",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26019",
+    "weight": "56.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26021",
+    "weight": "461.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26023",
+    "weight": "70.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26025",
+    "weight": "4.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26027",
+    "weight": "113.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26029",
+    "weight": "15.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26031",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26035",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26037",
+    "weight": "1.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26045",
+    "weight": "10.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26047",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26049",
+    "weight": "1.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26051",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26055",
+    "weight": "179.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26057",
+    "weight": "5.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26059",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26063",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26065",
+    "weight": "6.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26067",
+    "weight": "4.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26069",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26073",
+    "weight": "3.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26075",
+    "weight": "19.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26077",
+    "weight": "59.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26079",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26081",
+    "weight": "8.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26085",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26087",
+    "weight": "5.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26089",
+    "weight": "406"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26091",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26093",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26099",
+    "weight": "14"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26101",
+    "weight": "36.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26105",
+    "weight": "96.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26107",
+    "weight": "2.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26111",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26113",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26115",
+    "weight": "2.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26117",
+    "weight": "77.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26121",
+    "weight": "11.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26123",
+    "weight": "6.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26125",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26127",
+    "weight": "363.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26133",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26139",
+    "weight": "13.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26141",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26145",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26147",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26149",
+    "weight": "188.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26151",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26155",
+    "weight": "5.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26157",
+    "weight": "5.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26159",
+    "weight": "311.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26161",
+    "weight": "1.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "26163",
+    "weight": "1.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27005",
+    "weight": "11.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27009",
+    "weight": "16.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27011",
+    "weight": "5.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27023",
+    "weight": "36.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27027",
+    "weight": "49.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27029",
+    "weight": "10"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27041",
+    "weight": "4.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27051",
+    "weight": "19"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27067",
+    "weight": "30.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27069",
+    "weight": "39.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27073",
+    "weight": "3.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27085",
+    "weight": "4.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27087",
+    "weight": "25.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27089",
+    "weight": "94.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27093",
+    "weight": "13.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27097",
+    "weight": "43.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27107",
+    "weight": "32.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27111",
+    "weight": "172.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27113",
+    "weight": "7.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27119",
+    "weight": "527"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27121",
+    "weight": "35.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27125",
+    "weight": "23.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27127",
+    "weight": "4.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27129",
+    "weight": "55.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27135",
+    "weight": "6.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27141",
+    "weight": "13.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27143",
+    "weight": "9.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27145",
+    "weight": "14.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27149",
+    "weight": "18.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27151",
+    "weight": "31.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27153",
+    "weight": "14"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27155",
+    "weight": "10.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27159",
+    "weight": "37.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27167",
+    "weight": "19.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "27173",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28015",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28017",
+    "weight": "1.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28019",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28023",
+    "weight": "3.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28025",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28031",
+    "weight": "8.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28035",
+    "weight": "3.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28039",
+    "weight": "46.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28041",
+    "weight": "4.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28045",
+    "weight": "2.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28047",
+    "weight": "1.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28051",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28059",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28061",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28065",
+    "weight": "3.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28067",
+    "weight": "21.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28069",
+    "weight": "2.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28073",
+    "weight": "6.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28075",
+    "weight": "1.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28077",
+    "weight": "1.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28079",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28087",
+    "weight": "2.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28089",
+    "weight": "6.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28091",
+    "weight": "2.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28095",
+    "weight": "1.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28097",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28099",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28101",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28103",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28105",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28109",
+    "weight": "5.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28111",
+    "weight": "2.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28113",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28121",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28127",
+    "weight": "10.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28129",
+    "weight": "13.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28131",
+    "weight": "23.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28147",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28153",
+    "weight": "13.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28155",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "28159",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "29023",
+    "weight": "3.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "29065",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "29069",
+    "weight": "45.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "29099",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "29133",
+    "weight": "9.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "29181",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "29183",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "29189",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "29201",
+    "weight": "5.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "29207",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "29219",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30001",
+    "weight": "5.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30005",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30007",
+    "weight": "52.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30013",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30023",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30029",
+    "weight": "2.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30031",
+    "weight": "21.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30035",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30041",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30047",
+    "weight": "12.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30049",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30051",
+    "weight": "6.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30057",
+    "weight": "2.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30073",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30083",
+    "weight": "710.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30099",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "30107",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "31007",
+    "weight": "74.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "31013",
+    "weight": "228"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "31029",
+    "weight": "278.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "31057",
+    "weight": "406.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "31071",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "31123",
+    "weight": "62.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "31157",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "32001",
+    "weight": "1.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "32005",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "32013",
+    "weight": "1506"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "32019",
+    "weight": "82"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "32023",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "32031",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "33001",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "33003",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "33005",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "33007",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "33009",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "33011",
+    "weight": "3.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "33013",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "33015",
+    "weight": "2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "33017",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "33019",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34001",
+    "weight": "2.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34003",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34005",
+    "weight": "5.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34007",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34009",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34011",
+    "weight": "4.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34013",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34015",
+    "weight": "6.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34019",
+    "weight": "5.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34021",
+    "weight": "2.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34023",
+    "weight": "3.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34025",
+    "weight": "6.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34027",
+    "weight": "5.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34029",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34031",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34033",
+    "weight": "5.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34035",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34037",
+    "weight": "4.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34039",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "34041",
+    "weight": "5.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "35001",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "35023",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "35029",
+    "weight": "2.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "35031",
+    "weight": "3.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "35039",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "35043",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "35045",
+    "weight": "213.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "35051",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36001",
+    "weight": "1.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36003",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36007",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36009",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36011",
+    "weight": "3.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36013",
+    "weight": "1.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36015",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36017",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36019",
+    "weight": "2.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36021",
+    "weight": "5.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36023",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36025",
+    "weight": "1.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36027",
+    "weight": "4.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36029",
+    "weight": "5.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36031",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36033",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36035",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36037",
+    "weight": "4.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36039",
+    "weight": "5.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36043",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36045",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36049",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36051",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36053",
+    "weight": "1.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36055",
+    "weight": "14.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36057",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36059",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36063",
+    "weight": "5.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36065",
+    "weight": "1.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36067",
+    "weight": "6.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36069",
+    "weight": "8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36071",
+    "weight": "14.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36073",
+    "weight": "21"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36075",
+    "weight": "1.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36077",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36079",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36083",
+    "weight": "2.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36087",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36089",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36091",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36093",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36095",
+    "weight": "2.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36097",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36099",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36101",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36103",
+    "weight": "11.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36105",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36107",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36109",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36111",
+    "weight": "4.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36113",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36115",
+    "weight": "2.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36117",
+    "weight": "2.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36119",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36121",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "36123",
+    "weight": "1.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37001",
+    "weight": "1.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37003",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37005",
+    "weight": "7.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37007",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37009",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37011",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37013",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37015",
+    "weight": "1.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37017",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37019",
+    "weight": "2.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37021",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37023",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37025",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37027",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37031",
+    "weight": "5.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37033",
+    "weight": "1.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37035",
+    "weight": "1.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37037",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37041",
+    "weight": "43.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37045",
+    "weight": "7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37047",
+    "weight": "3.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37049",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37051",
+    "weight": "6.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37053",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37057",
+    "weight": "6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37059",
+    "weight": "2.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37061",
+    "weight": "19.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37063",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37065",
+    "weight": "8.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37067",
+    "weight": "3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37069",
+    "weight": "3.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37071",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37073",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37077",
+    "weight": "1.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37079",
+    "weight": "3.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37081",
+    "weight": "4.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37083",
+    "weight": "3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37085",
+    "weight": "4.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37089",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37091",
+    "weight": "27.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37093",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37095",
+    "weight": "2.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37097",
+    "weight": "1.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37101",
+    "weight": "27.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37103",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37105",
+    "weight": "3.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37107",
+    "weight": "11.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37109",
+    "weight": "2.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37115",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37117",
+    "weight": "1.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37119",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37123",
+    "weight": "6.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37125",
+    "weight": "5.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37127",
+    "weight": "49.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37129",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37131",
+    "weight": "19.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37133",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37135",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37139",
+    "weight": "2.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37141",
+    "weight": "13.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37143",
+    "weight": "6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37145",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37147",
+    "weight": "3.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37151",
+    "weight": "5.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37153",
+    "weight": "7.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37155",
+    "weight": "3.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37157",
+    "weight": "1.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37159",
+    "weight": "4.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37161",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37163",
+    "weight": "42.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37165",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37167",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37169",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37171",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37179",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37181",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37183",
+    "weight": "8.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37185",
+    "weight": "2.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37187",
+    "weight": "27.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37189",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37191",
+    "weight": "62.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37193",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37195",
+    "weight": "16.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "37197",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38003",
+    "weight": "72.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38005",
+    "weight": "59.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38009",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38017",
+    "weight": "94.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38021",
+    "weight": "84.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38027",
+    "weight": "4.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38029",
+    "weight": "59.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38031",
+    "weight": "5.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38033",
+    "weight": "16.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38035",
+    "weight": "79.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38039",
+    "weight": "72.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38043",
+    "weight": "61"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38045",
+    "weight": "146.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38047",
+    "weight": "35.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38049",
+    "weight": "149.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38051",
+    "weight": "14.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38063",
+    "weight": "4.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38065",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38067",
+    "weight": "182.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38073",
+    "weight": "174.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38077",
+    "weight": "31.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38081",
+    "weight": "68.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38089",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38091",
+    "weight": "400.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38093",
+    "weight": "8.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38095",
+    "weight": "4.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38097",
+    "weight": "265.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38099",
+    "weight": "220.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38101",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "38105",
+    "weight": "54.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "39003",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "39039",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "39063",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "39069",
+    "weight": "14.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "39095",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "39173",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40005",
+    "weight": "3.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40009",
+    "weight": "24.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40011",
+    "weight": "3.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40013",
+    "weight": "2.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40015",
+    "weight": "50.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40017",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40019",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40031",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40033",
+    "weight": "2.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40037",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40039",
+    "weight": "5.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40049",
+    "weight": "2.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40051",
+    "weight": "3.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40055",
+    "weight": "7.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40057",
+    "weight": "9.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40063",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40065",
+    "weight": "2.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40069",
+    "weight": "2.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40075",
+    "weight": "2.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40081",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40085",
+    "weight": "3.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40087",
+    "weight": "1.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40091",
+    "weight": "2.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40093",
+    "weight": "2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40095",
+    "weight": "2.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40107",
+    "weight": "3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40109",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40111",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40119",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40121",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40125",
+    "weight": "3.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40133",
+    "weight": "2.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40137",
+    "weight": "2.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40141",
+    "weight": "12.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "40149",
+    "weight": "4.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41001",
+    "weight": "18.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41003",
+    "weight": "42"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41005",
+    "weight": "132.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41009",
+    "weight": "1.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41011",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41013",
+    "weight": "71.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41015",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41017",
+    "weight": "17.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41019",
+    "weight": "13.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41021",
+    "weight": "7.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41027",
+    "weight": "32.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41029",
+    "weight": "14.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41031",
+    "weight": "218.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41033",
+    "weight": "4.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41035",
+    "weight": "1176.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41039",
+    "weight": "63.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41041",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41043",
+    "weight": "43.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41045",
+    "weight": "1884.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41047",
+    "weight": "607.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41049",
+    "weight": "608.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41051",
+    "weight": "33.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41053",
+    "weight": "47.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41057",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41059",
+    "weight": "136.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41061",
+    "weight": "22.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41063",
+    "weight": "2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41065",
+    "weight": "76.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41067",
+    "weight": "151.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "41071",
+    "weight": "134.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42001",
+    "weight": "21.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42003",
+    "weight": "2.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42009",
+    "weight": "8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42011",
+    "weight": "35"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42013",
+    "weight": "4.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42015",
+    "weight": "3.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42017",
+    "weight": "55.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42021",
+    "weight": "46.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42025",
+    "weight": "1.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42027",
+    "weight": "15"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42029",
+    "weight": "108.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42033",
+    "weight": "5.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42035",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42037",
+    "weight": "16.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42039",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42041",
+    "weight": "14.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42043",
+    "weight": "15.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42045",
+    "weight": "3.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42047",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42049",
+    "weight": "2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42051",
+    "weight": "3.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42053",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42055",
+    "weight": "6.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42057",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42059",
+    "weight": "3.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42061",
+    "weight": "3.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42067",
+    "weight": "4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42069",
+    "weight": "3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42071",
+    "weight": "101.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42075",
+    "weight": "6.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42077",
+    "weight": "16"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42079",
+    "weight": "22.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42081",
+    "weight": "1.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42083",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42085",
+    "weight": "2.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42087",
+    "weight": "3.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42089",
+    "weight": "1.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42091",
+    "weight": "8.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42093",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42095",
+    "weight": "8.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42097",
+    "weight": "15.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42099",
+    "weight": "3.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42105",
+    "weight": "13.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42107",
+    "weight": "57.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42109",
+    "weight": "8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42111",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42113",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42115",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42117",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42119",
+    "weight": "3.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42121",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42123",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42125",
+    "weight": "14.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42127",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42129",
+    "weight": "5.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42131",
+    "weight": "1.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "42133",
+    "weight": "59.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "44001",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "44003",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "44005",
+    "weight": "1.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "44007",
+    "weight": "1.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "44009",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45003",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45005",
+    "weight": "2.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45007",
+    "weight": "1.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45009",
+    "weight": "7.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45011",
+    "weight": "2.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45013",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45015",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45017",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45019",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45021",
+    "weight": "10.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45023",
+    "weight": "1.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45025",
+    "weight": "29.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45027",
+    "weight": "17.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45029",
+    "weight": "2.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45031",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45033",
+    "weight": "4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45035",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45037",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45041",
+    "weight": "2.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45043",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45045",
+    "weight": "12.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45047",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45049",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45051",
+    "weight": "7.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45055",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45057",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45059",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45061",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45063",
+    "weight": "8.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45067",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45069",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45071",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45073",
+    "weight": "1.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45075",
+    "weight": "3.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45077",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45079",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45083",
+    "weight": "43.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45085",
+    "weight": "5.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45089",
+    "weight": "4.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "45091",
+    "weight": "3.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "46025",
+    "weight": "100.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "46029",
+    "weight": "21.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "46037",
+    "weight": "6.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "46051",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "46109",
+    "weight": "5.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "47097",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "47157",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "47167",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48013",
+    "weight": "18.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48015",
+    "weight": "4.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48019",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48021",
+    "weight": "5.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48025",
+    "weight": "2.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48029",
+    "weight": "4.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48047",
+    "weight": "16.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48051",
+    "weight": "20.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48053",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48055",
+    "weight": "2.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48061",
+    "weight": "66.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48089",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48123",
+    "weight": "2.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48127",
+    "weight": "20.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48131",
+    "weight": "107.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48149",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48163",
+    "weight": "60.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48171",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48175",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48177",
+    "weight": "3.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48187",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48209",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48215",
+    "weight": "1043.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48249",
+    "weight": "104.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48255",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48273",
+    "weight": "51.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48281",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48283",
+    "weight": "17.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48287",
+    "weight": "3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48297",
+    "weight": "2.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48319",
+    "weight": "4.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48323",
+    "weight": "4.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48325",
+    "weight": "8.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48391",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48409",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48411",
+    "weight": "2.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48427",
+    "weight": "87.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48451",
+    "weight": "1.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48453",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48461",
+    "weight": "8.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48463",
+    "weight": "46.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48477",
+    "weight": "2.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48479",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48489",
+    "weight": "62.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48493",
+    "weight": "38.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "48507",
+    "weight": "18.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "49003",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "49011",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "49023",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "49027",
+    "weight": "8.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "49039",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "49041",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "49045",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "49047",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "49049",
+    "weight": "1.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "49057",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "50001",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "50003",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "50005",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "50007",
+    "weight": "1.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "50011",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "50013",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "50015",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "50017",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "50019",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "50021",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "50023",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "50025",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "50027",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51001",
+    "weight": "10.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51037",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51047",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51053",
+    "weight": "8.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51061",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51067",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51069",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51073",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51081",
+    "weight": "21.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51083",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51093",
+    "weight": "31"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51095",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51099",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51101",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51107",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51111",
+    "weight": "2.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51113",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51115",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51117",
+    "weight": "1.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51119",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51127",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51131",
+    "weight": "8.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51133",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51139",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51141",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51143",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51149",
+    "weight": "4.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51153",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51159",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51165",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51171",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51175",
+    "weight": "83.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51179",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51181",
+    "weight": "21.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51183",
+    "weight": "38.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51193",
+    "weight": "4.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51199",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51550",
+    "weight": "1.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51800",
+    "weight": "41.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "51810",
+    "weight": "1.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53001",
+    "weight": "201.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53003",
+    "weight": "4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53005",
+    "weight": "505.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53007",
+    "weight": "216.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53009",
+    "weight": "1.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53011",
+    "weight": "29.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53015",
+    "weight": "18.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53017",
+    "weight": "69.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53021",
+    "weight": "439.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53025",
+    "weight": "641.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53027",
+    "weight": "7.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53029",
+    "weight": "2.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53031",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53033",
+    "weight": "5.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53035",
+    "weight": "1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53037",
+    "weight": "4.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53039",
+    "weight": "82.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53041",
+    "weight": "13.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53043",
+    "weight": "33.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53045",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53047",
+    "weight": "114.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53053",
+    "weight": "6.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53055",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53057",
+    "weight": "192.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53059",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53061",
+    "weight": "34"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53063",
+    "weight": "12.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53065",
+    "weight": "12.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53067",
+    "weight": "4.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53071",
+    "weight": "132.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53073",
+    "weight": "47.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53075",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "53077",
+    "weight": "596.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55001",
+    "weight": "8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55009",
+    "weight": "2.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55015",
+    "weight": "1.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55021",
+    "weight": "2.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55023",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55025",
+    "weight": "3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55027",
+    "weight": "4.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55029",
+    "weight": "4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55033",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55035",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55039",
+    "weight": "5.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55043",
+    "weight": "0.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55045",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55047",
+    "weight": "3.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55049",
+    "weight": "0.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55053",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55055",
+    "weight": "3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55057",
+    "weight": "1.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55061",
+    "weight": "1.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55063",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55065",
+    "weight": "0.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55067",
+    "weight": "2.8"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55071",
+    "weight": "3.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55073",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55075",
+    "weight": "0.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55077",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55083",
+    "weight": "2.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55085",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55087",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55097",
+    "weight": "15.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55101",
+    "weight": "1.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55103",
+    "weight": "0.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55105",
+    "weight": "4.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55109",
+    "weight": "2.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55111",
+    "weight": "1.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55115",
+    "weight": "0.9"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55117",
+    "weight": "1.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55121",
+    "weight": "1.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55123",
+    "weight": "0.6"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55127",
+    "weight": "0.5"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55131",
+    "weight": "1.2"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55135",
+    "weight": "2.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55137",
+    "weight": "6.3"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55139",
+    "weight": "1.4"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "55141",
+    "weight": "1.7"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "56013",
+    "weight": "0.1"
+  },
+  {
+    "name": "BOSCALID",
+    "year": "2004",
+    "fips": "56021",
+    "weight": "76"
+  }
+]

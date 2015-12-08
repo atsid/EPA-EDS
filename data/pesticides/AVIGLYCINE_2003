@@ -1,0 +1,3326 @@
+[
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "9003",
+    "weight": "2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "9005",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "9007",
+    "weight": "0.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "9009",
+    "weight": "1.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "9011",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "9013",
+    "weight": "0.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "9015",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "13111",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "13123",
+    "weight": "1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "13137",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "13139",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "13227",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "13241",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "13257",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "13291",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "13313",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16001",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16005",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16011",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16017",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16019",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16021",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16027",
+    "weight": "13.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16035",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16045",
+    "weight": "1.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16049",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16051",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16055",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16057",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16075",
+    "weight": "4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16083",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "16087",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17001",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17007",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17011",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17013",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17019",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17025",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17029",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17031",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17035",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17037",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17051",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17057",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17077",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17081",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17083",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17087",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17089",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17097",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17111",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17113",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17115",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17117",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17119",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17121",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17123",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17127",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17143",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17149",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17159",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17161",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17163",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17179",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17181",
+    "weight": "0.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17195",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "17201",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "18039",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "18063",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "18067",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "18089",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "18091",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "18109",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "19011",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "19037",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "19055",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "19061",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "19103",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "19111",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "19113",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "21015",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "21037",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23001",
+    "weight": "4.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23003",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23005",
+    "weight": "1.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23007",
+    "weight": "1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23009",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23011",
+    "weight": "2.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23013",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23015",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23017",
+    "weight": "3.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23019",
+    "weight": "1.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23021",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23023",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23025",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23027",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "23031",
+    "weight": "2.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "24001",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "24003",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "24005",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "24013",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "24015",
+    "weight": "1.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "24021",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "24023",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "24025",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "24027",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "24031",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "24035",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "24037",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "24043",
+    "weight": "5.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "25001",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "25003",
+    "weight": "1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "25005",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "25009",
+    "weight": "1.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "25011",
+    "weight": "2.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "25013",
+    "weight": "2.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "25015",
+    "weight": "1.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "25017",
+    "weight": "4.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "25021",
+    "weight": "0.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "25023",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "25027",
+    "weight": "11.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26005",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26009",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26013",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26017",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26019",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26021",
+    "weight": "4.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26023",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26027",
+    "weight": "1.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26029",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26037",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26041",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26045",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26049",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26055",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26059",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26065",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26067",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26075",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26077",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26081",
+    "weight": "7.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26087",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26089",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26091",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26093",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26099",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26101",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26103",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26105",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26109",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26115",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26117",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26121",
+    "weight": "1.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26123",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26125",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26127",
+    "weight": "1.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26139",
+    "weight": "2.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26145",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26147",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26149",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26151",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26155",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26157",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26159",
+    "weight": "3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26161",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "26163",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27003",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27025",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27035",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27037",
+    "weight": "1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27039",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27045",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27049",
+    "weight": "0.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27053",
+    "weight": "1.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27055",
+    "weight": "1.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27065",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27095",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27099",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27109",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27115",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27157",
+    "weight": "2.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27163",
+    "weight": "2.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "27169",
+    "weight": "3.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "29031",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "29095",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "29099",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "29101",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "29107",
+    "weight": "2.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "29157",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "29165",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "29183",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "29219",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "32031",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "32033",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "33001",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "33003",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "33005",
+    "weight": "0.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "33007",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "33009",
+    "weight": "0.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "33011",
+    "weight": "4.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "33013",
+    "weight": "1.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "33015",
+    "weight": "2.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "33017",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "33019",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34001",
+    "weight": "0.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34003",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34005",
+    "weight": "0.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34007",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34009",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34011",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34015",
+    "weight": "1.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34019",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34021",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34023",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34025",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34027",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34029",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34035",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34037",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "34041",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36001",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36007",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36009",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36011",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36013",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36015",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36017",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36019",
+    "weight": "6.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36021",
+    "weight": "3.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36025",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36027",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36029",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36031",
+    "weight": "0.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36035",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36037",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36039",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36043",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36045",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36049",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36051",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36053",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36055",
+    "weight": "1.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36063",
+    "weight": "4.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36065",
+    "weight": "1.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36067",
+    "weight": "1.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36069",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36071",
+    "weight": "1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36073",
+    "weight": "7.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36075",
+    "weight": "1.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36077",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36079",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36083",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36087",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36089",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36091",
+    "weight": "1.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36093",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36095",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36099",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36101",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36103",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36105",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36109",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36111",
+    "weight": "7.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36115",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36117",
+    "weight": "27.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36119",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36121",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "36123",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37003",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37021",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37045",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37059",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37071",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37081",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37087",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37089",
+    "weight": "5.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37109",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37121",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37125",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37149",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37157",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37161",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37169",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "37193",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39001",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39005",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39007",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39013",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39017",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39019",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39021",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39027",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39029",
+    "weight": "0.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39031",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39033",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39039",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39043",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39045",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39051",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39053",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39055",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39057",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39061",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39069",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39075",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39079",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39083",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39085",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39087",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39089",
+    "weight": "0.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39091",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39093",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39095",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39099",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39101",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39103",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39113",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39119",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39123",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39133",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39135",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39139",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39141",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39143",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39145",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39151",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39153",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39155",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39159",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39161",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39165",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39167",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39169",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39173",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "39175",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41001",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41003",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41005",
+    "weight": "1.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41009",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41011",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41015",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41019",
+    "weight": "0.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41023",
+    "weight": "1.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41027",
+    "weight": "8.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41029",
+    "weight": "1.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41033",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41035",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41037",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41039",
+    "weight": "1.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41041",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41043",
+    "weight": "0.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41045",
+    "weight": "1.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41047",
+    "weight": "1.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41051",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41053",
+    "weight": "1.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41059",
+    "weight": "18.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41061",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41063",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41065",
+    "weight": "2.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41067",
+    "weight": "1.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "41071",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42001",
+    "weight": "52.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42003",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42005",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42007",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42009",
+    "weight": "3.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42011",
+    "weight": "3.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42013",
+    "weight": "2.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42015",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42017",
+    "weight": "1.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42019",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42021",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42027",
+    "weight": "1.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42029",
+    "weight": "1.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42031",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42033",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42035",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42037",
+    "weight": "1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42039",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42041",
+    "weight": "1.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42043",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42045",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42049",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42051",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42055",
+    "weight": "10.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42057",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42059",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42061",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42063",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42067",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42069",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42071",
+    "weight": "1.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42073",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42075",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42077",
+    "weight": "1.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42079",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42081",
+    "weight": "0.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42085",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42087",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42089",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42091",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42093",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42095",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42097",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42099",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42103",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42107",
+    "weight": "0.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42109",
+    "weight": "1.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42111",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42115",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42117",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42119",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42125",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42127",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42129",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42131",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "42133",
+    "weight": "2.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "44003",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "44005",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "44007",
+    "weight": "1.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "44009",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "45007",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "45045",
+    "weight": "2.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "45059",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "45073",
+    "weight": "3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "45083",
+    "weight": "1.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "47007",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "50001",
+    "weight": "4.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "50003",
+    "weight": "1.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "50005",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "50007",
+    "weight": "0.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "50011",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "50013",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "50015",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "50017",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "50019",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "50021",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "50023",
+    "weight": "0.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "50025",
+    "weight": "2.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "50027",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51003",
+    "weight": "4.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51009",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51019",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51023",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51035",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51043",
+    "weight": "5.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51061",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51067",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51069",
+    "weight": "22.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51071",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51095",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51107",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51109",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51113",
+    "weight": "0.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51125",
+    "weight": "2.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51137",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51139",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51141",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51157",
+    "weight": "1.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51165",
+    "weight": "4.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51171",
+    "weight": "7.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51175",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "51187",
+    "weight": "1.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53001",
+    "weight": "19.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53003",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53005",
+    "weight": "83.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53007",
+    "weight": "87.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53009",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53011",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53013",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53015",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53017",
+    "weight": "64.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53021",
+    "weight": "48.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53025",
+    "weight": "199.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53027",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53029",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53031",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53033",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53035",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53037",
+    "weight": "3.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53039",
+    "weight": "7.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53041",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53045",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53047",
+    "weight": "115.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53053",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53055",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53057",
+    "weight": "1.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53059",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53061",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53063",
+    "weight": "2.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53065",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53067",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53071",
+    "weight": "162.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53073",
+    "weight": "0.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53075",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "53077",
+    "weight": "359.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "54003",
+    "weight": "1.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "54027",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "54037",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "54065",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55003",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55005",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55007",
+    "weight": "2.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55009",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55013",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55015",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55017",
+    "weight": "1.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55019",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55021",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55023",
+    "weight": "2.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55025",
+    "weight": "0.4"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55027",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55029",
+    "weight": "1.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55031",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55033",
+    "weight": "0.9"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55035",
+    "weight": "0.8"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55039",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55043",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55045",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55049",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55053",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55055",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55059",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55061",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55063",
+    "weight": "1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55065",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55067",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55069",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55073",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55081",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55083",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55087",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55089",
+    "weight": "0.6"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55091",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55093",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55095",
+    "weight": "1.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55101",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55103",
+    "weight": "1.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55105",
+    "weight": "0.5"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55107",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55109",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55111",
+    "weight": "0.7"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55113",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55117",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55119",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55121",
+    "weight": "3.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55123",
+    "weight": "0.3"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55127",
+    "weight": "0.2"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55129",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55131",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55133",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55135",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55139",
+    "weight": "0.1"
+  },
+  {
+    "name": "AVIGLYCINE",
+    "year": "2003",
+    "fips": "55141",
+    "weight": "0.1"
+  }
+]
