@@ -8,6 +8,7 @@ const debug = debugFactory('app:components:OverlaySelector');
 import {Button} from "react-bootstrap";
 
 import VegetationLayer from './layers/VegetationLayer';
+import PesticideLayer from './layers/PesticideLayer';
 
 const OverlaySelector = React.createClass({
     propTypes: {
@@ -22,17 +23,24 @@ const OverlaySelector = React.createClass({
             overlays: {
                 plantDensity: false,
                 soilType: false,
+                pesticideDensity: false,
             },
             layers: {
                 plantDensity: new VegetationLayer(this.props.map),
+                pesticideDensity: new PesticideLayer(this.props.map),
             }
         };
     },
 
     componentDidMount() {
-        this.props.onYearUpdate((year) => this.state.layers.plantDensity.setYear(year));
+        this.props.onYearUpdate((year) => {
+            this.state.layers.plantDensity.setYear(year)
+            this.state.layers.pesticideDensity.setYear(year);
+        });
         this.state.layers.plantDensity.onLoadingChange(this.props.onLoadingChange);
         this.state.layers.plantDensity.onDataLoaded(this.onVegitationDataLoaded);
+        this.state.layers.pesticideDensity.onLoadingChange(this.props.onLoadingChange);
+        this.state.layers.pesticideDensity.onDataLoaded(this.onVegitationDataLoaded);
     },
 
     onVegitationDataLoaded(minValue, maxValue) {
@@ -55,10 +63,10 @@ const OverlaySelector = React.createClass({
         return (
             <div className="overlaySelectorGroup">
                 <div>
-                    <Button disabled bsStyle={overlayStyle(overlays.soilType)} onClick={() => toggleOverlay('soilType')} className="layerButton">
-                        <img className="layerIcon" src="src/img/icons/soil.png"/>
-                        &nbsp;
-                        <span>Soil Type</span>
+                    <Button bsStyle={overlayStyle(overlays.pesticideDensity)} onClick={() => toggleOverlay('pesticideDensity')} className="layerButton">
+                          <img className="layerIcon" src="src/img/icons/pest.png"/>
+                          &nbsp;
+                        <span>Pesticides</span>
                     </Button>
                 </div>
                 <div>
