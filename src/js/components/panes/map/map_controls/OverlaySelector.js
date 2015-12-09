@@ -81,9 +81,9 @@ const OverlaySelector = React.createClass({
                     <div style={{ display: overlays.plantDensity && this.state.vegitationScale ? "block" : "none" }}>
                         <span> Density Scale:</span>
                         <div className="scale">
-                            <span className="min-label">{ this.state.vegitationScale ? this.state.vegitationScale.min.toFixed(1) : ""}</span>
+                            <span className="min-label">{ this.state.vegitationScale && this.state.vegitationScale.min ? this.state.vegitationScale.min.toFixed(1) : ""}</span>
                             <span className="gradient">&nbsp;</span>
-                            <span className="max-label">{ this.state.vegitationScale ? this.state.vegitationScale.max.toFixed(1) : "" }</span>
+                            <span className="max-label">{ this.state.vegitationScale && this.state.vegitationScale.max ? this.state.vegitationScale.max.toFixed(1) : "" }</span>
                         </div>
                     </div>
                 </div>

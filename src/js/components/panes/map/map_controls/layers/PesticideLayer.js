@@ -107,6 +107,7 @@ class PesticideLayer extends Layer {
   }
 
   clear() {
+    this.emitLoadingChange(false);
     if (this.counties) {
       this.counties.setMap(null);
     }
