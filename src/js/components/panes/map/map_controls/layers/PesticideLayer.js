@@ -1,5 +1,10 @@
 "use strict";
 import Layer from './Layer';
+import request from 'superagent';
+import debugFactory from "debug";
+const debug = debugFactory('app:layers:PesticideLayer');
+
+let getReq = null;
 
 class PesticideLayer extends Layer {
   constructor(map, isVisible) {
@@ -17,15 +22,17 @@ class PesticideLayer extends Layer {
   }
 
   generateMapArtifacts(map) {
-    if (!this.counties) {
-      this.counties = new google.maps.FusionTablesLayer({
-        query: {
-          select: 'location',
-          from: '1xdysxZ94uUFIit9eXmnw1fYc6VcQiXhceFd_CVKa'
-        }
-      });
+    if (getReq) {
+      debug('pest get request aborted');
+      getReq.abort();
+      getReq = null;
     }
-    this.counties.setMap(map);
+
+    this.emitLoadingChange(true);
+    return this.initiateDataRequest()
+      .then((data) => this.formatData(data))
+      .then((data) => this.presentPesticideData(data, map))
+      .catch((err) => debug('Pesticide Layer Error', err));
   }
 
   onLoadingChange(cb) {
@@ -44,12 +51,59 @@ class PesticideLayer extends Layer {
     });
   }
 
-  emitOnDataLoaded(min, max) {
+  emitOnDataLoaded() {
     this.onDataLoadedCallbacks.forEach((cb) => {
       if (cb) {
-        cb(min, max);
+        cb();
       }
     });
+  }
+
+  initiateDataRequest() {
+    const url = encodeURI('/usda-challenge/data/pesticides/2,4-D_' + this.year);
+    return new Promise((resolve, reject) => {
+      debug('requesting new pesticide data');
+      getReq = request.get(url)
+      .end((err, res) => {
+        if (err) {
+          debug("Error Requesting Pest. Data", err);
+          reject (err);
+        }
+        else {
+          debug('received pesticide data info', res);
+          resolve(JSON.parse(res.text));
+          getReq = null;
+        }
+      });
+    });
+  }
+
+  formatData(data) {
+    return new Promise((resolve, reject) => {
+      const styles = [];
+      data.forEach((item) => {
+        styles.push({
+          where: "'GEO_ID' == " + item.fips,
+          polygonOptions: {
+            fillColor: "#00CCCC"
+          }
+        });
+      });
+      resolve(styles);
+    });
+  }
+
+  presentPesticideData(data, map) {
+    this.counties = new google.maps.FusionTablesLayer({
+      query: {
+        select: 'location',
+        from: '1xdysxZ94uUFIit9eXmnw1fYc6VcQiXhceFd_CVKa'
+      },
+      styles: data
+    });
+    this.counties.setMap(map);
+    this.emitOnDataLoaded();
+    this.emitLoadingChange(false);
   }
 
   clear() {
