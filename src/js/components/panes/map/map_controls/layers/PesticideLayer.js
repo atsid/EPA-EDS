@@ -44,6 +44,10 @@ class PesticideLayer extends Layer {
     this.presentPesticideData(map);
   }
 
+  boundsChanged() {
+    return false;
+  }
+
   onLoadingChange(cb) {
     this.onLoadingChangeCallbacks.push(cb);
   }
