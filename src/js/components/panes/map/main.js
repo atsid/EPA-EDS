@@ -143,6 +143,12 @@ let MapPaneComponent = React.createClass({
                     />
                 </div>
                 <ActivitiesPerformed state={this.props.state} year={this.props.year} />
+                <div>
+                    <hr/>
+                    <div><strong>Pesticide Data:</strong> <a href="http://pubs.usgs.gov/ds/752/">USGS Estimated Annual Agricultural Pesticide Use for Counties of the Conterminous United States</a></div>
+                    <div>Currently displays data for Atrazine.</div>
+                    <div>Clicking on a county will display the amount of pesticides used for a given year in kilograms.</div>
+                </div>
             </div>
         );
     }
