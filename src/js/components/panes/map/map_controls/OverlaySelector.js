@@ -40,11 +40,15 @@ const OverlaySelector = React.createClass({
         this.state.layers.plantDensity.onLoadingChange(this.props.onLoadingChange);
         this.state.layers.plantDensity.onDataLoaded(this.onVegitationDataLoaded);
         this.state.layers.pesticideDensity.onLoadingChange(this.props.onLoadingChange);
-        this.state.layers.pesticideDensity.onDataLoaded(this.onVegitationDataLoaded);
+        this.state.layers.pesticideDensity.onDataLoaded(this.onPesticideDataLoaded);
     },
 
     onVegitationDataLoaded(minValue, maxValue) {
-        this.setState(_.merge(this.state, { vegitationScale: { min: minValue, max: maxValue }}));
+        this.setState(_.merge(this.state, { vegitationScale: { min: minValue, max: maxValue }, disabled: false }));
+    },
+
+    onPesticideDataLoaded() {
+        this.setState(_.merge(this.state, { disabled: false }));
     },
 
     render() {
@@ -52,7 +56,7 @@ const OverlaySelector = React.createClass({
         const overlays = this.state.overlays;
         const toggleOverlay = (name) => {
             const isEnabled = this.state.overlays[name];
-            let nextState = _.merge(this.state, {overlays: {[name]: !isEnabled}});
+            let nextState = _.merge(this.state, {overlays: {[name]: !isEnabled}, disabled: !isEnabled});
             if (name === 'plantDensity') {
                 delete nextState.vegitationScale;
             }
@@ -63,15 +67,20 @@ const OverlaySelector = React.createClass({
         return (
             <div className="overlaySelectorGroup">
                 <div>
-                    <Button bsStyle={overlayStyle(overlays.pesticideDensity)} onClick={() => toggleOverlay('pesticideDensity')} className="layerButton">
-                          <img className="layerIcon" src="src/img/icons/pest.png"/>
-                          &nbsp;
+                    <Button bsStyle={overlayStyle(overlays.pesticideDensity)}
+                        onClick={() => toggleOverlay('pesticideDensity')}
+                        className="layerButton"
+                        disabled={this.state.disabled}>
+                        <img className="layerIcon" src="src/img/icons/activities/pesticide.png"/>
+                        &nbsp;
                         <span>Pesticides</span>
                     </Button>
                 </div>
                 <div>
                     <Button bsStyle={overlayStyle(overlays.plantDensity)}
-                            onClick={() => toggleOverlay('plantDensity')} className="layerButton">
+                        onClick={() => toggleOverlay('plantDensity')}
+                        className="layerButton"
+                        disabled={this.state.disabled}>
                         <img className="layerIcon" src="src/img/icons/plant_density.png"/>
                         &nbsp;
                         <span>Plant Density</span>

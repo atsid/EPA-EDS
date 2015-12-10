@@ -69,6 +69,9 @@ class PesticideLayer extends Layer {
   }
 
   presentPesticideData(map) {
+    if (this.counties) {
+      this.counties.setMap(null);
+    }
     if (mapKeys[this.year]) {
       this.counties = new google.maps.FusionTablesLayer({
         map: map,
@@ -84,6 +87,13 @@ class PesticideLayer extends Layer {
         }
       });
       this.counties.setMap(map);
+    } else {
+      this.counties = new google.maps.Marker({
+        map: map,
+        position: map.getCenter(),
+        icon: 'src/img/no_data_available.png',
+        title: 'No pesticide data available for ' + this.year
+      });
     }
     this.emitOnDataLoaded();
     this.emitLoadingChange(false);
