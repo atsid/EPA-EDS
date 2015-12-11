@@ -15,7 +15,7 @@ let postReq = null, getReq = null;
 class VegetationLayer extends Layer {
     constructor(map, isVisible) {
         super(map, isVisible);
-        this.year = 2014;
+        this.year = 2009;
         this.onLoadingChangeCallbacks =[];
         this.onDataLoadedCallbacks =[];
     }

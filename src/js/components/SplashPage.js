@@ -52,7 +52,7 @@ let SplashPageComponent = React.createClass({
         const lat = parseFloat(query.lat) || 42.0046;
         const lng = parseFloat(query.lng) || -93.214;
         const zoom = parseFloat(query.zoom) || 4;
-        const year = parseInt(query.year) || 2014;
+        const year = parseInt(query.year) || 2009;
         const radius = 100;
         const crop = query.crop || 'corn';
         return {state, year, lat, lng, zoom, crop, radius};
