@@ -146,7 +146,7 @@ let MapPaneComponent = React.createClass({
                 <div>
                     <hr/>
                     <div><strong>Pesticide Data:</strong> <a href="http://pubs.usgs.gov/ds/752/">USGS Estimated Annual Agricultural Pesticide Use for Counties of the Conterminous United States</a></div>
-                    <div>Data is currenly available for years 2000 - 2009.</div>
+                    <div>Data is currently available for years 2000 - 2009.</div>
                     <div>Currently displaying data for Atrazine.</div>
                     <div>Clicking on a county will display the amount of pesticides used for a given year in kilograms.</div>
                 </div>
