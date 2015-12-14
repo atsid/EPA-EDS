@@ -1,9 +1,5 @@
-[![Dependency Status](https://david-dm.org/atsid/usda-challenge.svg)](https://david-dm.org/atsid/usda-challenge)
-[![devDependency Status](https://david-dm.org/atsid/usda-challenge/dev-status.svg)](https://david-dm.org/atsid/usda-challenge#info=devDependencies)
-[![Dependency Status](https://gemnasium.com/atsid/usda-challenge.svg)](https://gemnasium.com/atsid/usda-challenge)
-
-# usda-challenge
-ATS + EchoUser submission for USDA Innovation Challenge
+# EPA EDS-RFI Response
+Forked from ATS + EchoUser submission for USDA Innovation Challenge
 
 # Getting Started
 
@@ -24,10 +20,10 @@ This is optional because `npm test` and `npm start` will get you running, and th
 
 ## Deployment
 
-We use [Travis-CI](https://travis-ci.org/atsid/usda-challenge) to build the project on every commit to the master branch. Since this currently a completely client-side app, that just means pushing to the live server.
+We use [Travis-CI](https://travis-ci.org/atsid/epa-eds) to build the project on every commit to the master branch. Since this currently a completely client-side app, that just means pushing to the live server.
 And in this case, 'live server' means automatic free hosting on [GitHub Pages](https://pages.github.com/) by virtue of commits to the repository's `gh-pages` branch.
 
-Deployment uses a gulp task to push to the `gh-pages` branch, where it can be viewed at http://labs.atsid.com/usda-challenge/. You can do it yourself manually on the command line like so:
+Deployment uses a gulp task to push to the `gh-pages` branch, where it can be viewed at http://labs.atsid.com/epa-eds/. You can do it yourself manually on the command line like so:
 
 1. Get dev dependencies: `npm install`
 1. Install gulp if you don't have it: `npm install -g gulp`
