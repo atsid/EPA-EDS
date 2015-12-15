@@ -6,7 +6,11 @@ class Layer {
         this.artifacts = [];
         this.isVisible = isVisible;
 
-        map.addListener('bounds_changed', _.debounce(this.rerender.bind(this), 150));
+        map.addListener('bounds_changed', _.debounce(this.boundsChanged.bind(this), 150));
+    }
+
+    boundsChanged() {
+        this.rerender();
     }
 
     rerender() {

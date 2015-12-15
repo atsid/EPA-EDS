@@ -59,7 +59,7 @@ let MapPaneComponent = React.createClass({
     initialLoadState(state) {
         debug('loading initial state', state);
         this.setState({selectedState: state});
-        this.refs.map.enable(state.polygon);
+        // this.refs.map.enable(state.polygon);
         this.props.onStateChange(state.code);
     },
 
@@ -104,7 +104,7 @@ let MapPaneComponent = React.createClass({
         }
 
         this.setState({selectedState: state});
-        this.refs.map.enable(state.polygon);
+        // this.refs.map.enable(state.polygon);
         this.refs.map.setBounds(bounds);
 
         this.props.onStateChange(state.code);
@@ -143,6 +143,13 @@ let MapPaneComponent = React.createClass({
                     />
                 </div>
                 <ActivitiesPerformed state={this.props.state} year={this.props.year} />
+                <div>
+                    <hr/>
+                    <div><strong>Pesticide Data:</strong> <a href="http://pubs.usgs.gov/ds/752/">USGS Estimated Annual Agricultural Pesticide Use for Counties of the Conterminous United States</a></div>
+                    <div>Data is currently available for years 2000 - 2009.</div>
+                    <div>Currently displaying data for Atrazine.</div>
+                    <div>Clicking on a county will display the amount of pesticides used during a given year in kilograms.</div>
+                </div>
             </div>
         );
     }
