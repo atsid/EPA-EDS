@@ -1,5 +1,5 @@
 # EPA EDS-RFI Response
-Forked from ATS + EchoUser submission for USDA Innovation Challenge
+Forked from ATS + EchoUser submission for USDA Innovation Challenge, https://github.com/atsid/usda-challenge
 
 # Getting Started
 
